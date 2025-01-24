@@ -1,0 +1,232 @@
+[
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-02-21T04:32:55-08:00",
+      "reviewBody": "Notion is our internal wiki at Product Hunt, although I still consider myself a semi-newb. There are a lot of features and shortcuts that I still need to learn from power-users to unlock it to its full potential.",
+      "author": {
+        "@type": "Person",
+        "name": "Emily Hodgins",
+        "image": "https://ph-avatars.imgix.net/234457/60efbc86-2c65-4f3d-a1c6-8f099fcb1e79.jpeg",
+        "url": "https://www.producthunt.com/@ejhodgins"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Emily Hodgins",
+      "image": "https://ph-avatars.imgix.net/234457/60efbc86-2c65-4f3d-a1c6-8f099fcb1e79.jpeg",
+      "url": "https://www.producthunt.com/@ejhodgins"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-01-05T07:59:22-08:00",
+      "reviewBody": "Notion is seriously the coolest productivity tool I've ever used. It's like a mix of Trello, Google Docs, and Evernote all rolled into one. I use it to keep track of everything from my to-do list to meeting notes to personal journal entries. The customization options are endless – you can create tables, embed media, and choose from a ton of formatting options to make your pages look exactly how you want. Plus, it integrates with so many other tools, like Google Drive and Trello, which makes it super easy to keep all of my work in one place. I honestly don't know how I managed to get anything done before I started using Notion. It's seriously a game changer.",
+      "author": {
+        "@type": "Person",
+        "name": "Janusz Mirowski",
+        "image": "https://ph-avatars.imgix.net/4811734/original.jpeg",
+        "url": "https://www.producthunt.com/@janusz_mirowski"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Janusz Mirowski",
+      "image": "https://ph-avatars.imgix.net/4811734/original.jpeg",
+      "url": "https://www.producthunt.com/@janusz_mirowski"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-07-20T06:49:11-07:00",
+      "reviewBody": "An excellent solution for managing personal notes, data and other records. Also great for sharing information.",
+      "author": {
+        "@type": "Person",
+        "name": "Nick from FirstHR",
+        "image": "https://ph-avatars.imgix.net/4089665/e7f04b8a-a115-4d1a-be97-d878062b0cf7.png",
+        "url": "https://www.producthunt.com/@nickanisimov"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Nick from FirstHR",
+      "image": "https://ph-avatars.imgix.net/4089665/e7f04b8a-a115-4d1a-be97-d878062b0cf7.png",
+      "url": "https://www.producthunt.com/@nickanisimov"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2024-01-18T02:50:52-08:00",
+      "reviewBody": "Notion is a can't-live-without kind of product for me.",
+      "author": {
+        "@type": "Person",
+        "name": "Min Zhou",
+        "image": "https://ph-avatars.imgix.net/3848136/94ee6d0b-0f1f-4436-aa94-f132a4c9343e.gif",
+        "url": "https://www.producthunt.com/@min_zhou"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Min Zhou",
+      "image": "https://ph-avatars.imgix.net/3848136/94ee6d0b-0f1f-4436-aa94-f132a4c9343e.gif",
+      "url": "https://www.producthunt.com/@min_zhou"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-08-06T08:37:41-07:00",
+      "reviewBody": "The first tool that solves absolutely all project management tasks for my team.",
+      "author": {
+        "@type": "Person",
+        "name": "Maria Loleyt",
+        "image": "https://ph-avatars.imgix.net/5652713/original.png",
+        "url": "https://www.producthunt.com/@maria_loleyt"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Maria Loleyt",
+      "image": "https://ph-avatars.imgix.net/5652713/original.png",
+      "url": "https://www.producthunt.com/@maria_loleyt"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-06-06T10:58:17-07:00",
+      "reviewBody": "Notion is a great tool that has helped shape the way that I personally work. NotionAI was just one more enhancement that makes Notion even better. Always a fan of Notion and what it does for me both professionally and personally.",
+      "author": {
+        "@type": "Person",
+        "name": "Justin Phillips",
+        "image": "https://ph-avatars.imgix.net/4491953/7500da58-0b3d-44c5-835a-feabe770afd4.png",
+        "url": "https://www.producthunt.com/@j5p"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Justin Phillips",
+      "image": "https://ph-avatars.imgix.net/4491953/7500da58-0b3d-44c5-835a-feabe770afd4.png",
+      "url": "https://www.producthunt.com/@j5p"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-06-22T04:19:55-07:00",
+      "reviewBody": "This is genuinely an amazing upgrade! Very clean, but also very easy to explore templates and find the new (and hidden) ones.\n\nCreator profiles is the biggest game changer for me! I think this was much needed as I did try to find creators I follow through the search bar on the old gallery.\n\nGreat work guys! That's why we love you so much ;)\n\nAnd since Ben asked, here's me!\nhttps://www.notion.so/@ajinkyabhat",
+      "author": {
+        "@type": "Person",
+        "name": "Ajinkya Bhat | Notion X Startups",
+        "image": "https://ph-avatars.imgix.net/5345611/75b67767-03ff-4478-af29-cf03812033d5.png",
+        "url": "https://www.producthunt.com/@ajinkya_bhat"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Ajinkya Bhat | Notion X Startups",
+      "image": "https://ph-avatars.imgix.net/5345611/75b67767-03ff-4478-af29-cf03812033d5.png",
+      "url": "https://www.producthunt.com/@ajinkya_bhat"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-06-20T01:16:03-07:00",
+      "reviewBody": "The versatile muse of organization dances across the digital canvas, empowering our productivity and weaving together the threads of ideas, tasks, and knowledge into a harmonious tapestry of efficiency and clarity",
+      "author": {
+        "@type": "Person",
+        "name": "Vlad",
+        "image": "https://ph-avatars.imgix.net/3569354/original.jpeg",
+        "url": "https://www.producthunt.com/@vlad_karel"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Vlad",
+      "image": "https://ph-avatars.imgix.net/3569354/original.jpeg",
+      "url": "https://www.producthunt.com/@vlad_karel"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2022-12-21T12:11:20-08:00",
+      "reviewBody": "The best notes app ever. Many templates that make amazing stuffs.",
+      "author": {
+        "@type": "Person",
+        "name": "Guilherme Gotardo",
+        "image": "https://ph-avatars.imgix.net/1877302/original.jpeg",
+        "url": "https://www.producthunt.com/@guilherme_gotardo2"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Guilherme Gotardo",
+      "image": "https://ph-avatars.imgix.net/1877302/original.jpeg",
+      "url": "https://www.producthunt.com/@guilherme_gotardo2"
+    }
+  },
+  {
+    "productHuntReview": {
+      "@type": "Review",
+      "datePublished": "2023-01-24T06:21:57-08:00",
+      "reviewBody": "The power of software squared!",
+      "author": {
+        "@type": "Person",
+        "name": "Raphael Schaad",
+        "image": "https://ph-avatars.imgix.net/1079844/57e708ff-1a1a-43b1-96b8-e99a441b9dd8.jpeg",
+        "url": "https://www.producthunt.com/@raphaelschaad"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5
+      }
+    },
+    "productHuntPerson": {
+      "@type": "Person",
+      "name": "Raphael Schaad",
+      "image": "https://ph-avatars.imgix.net/1079844/57e708ff-1a1a-43b1-96b8-e99a441b9dd8.jpeg",
+      "url": "https://www.producthunt.com/@raphaelschaad"
+    }
+  }
+]

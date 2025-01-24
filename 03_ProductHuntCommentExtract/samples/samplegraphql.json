@@ -1,0 +1,753 @@
+{
+    "data": {
+        "product": {
+            "id": "106091",
+            "slug": "notion",
+            "name": "Notion",
+            "reviewsWithBodyCount": 2065,
+            "reviewsRating": 4.8,
+            "reviewsRecentRating": 4.79,
+            "reviewsCount": 2891,
+            "reviewsRecentWithRatingCount": 136,
+            "isMaker": false,
+            "isTrashed": false,
+            "activeUpcomingEvent": null,
+            "reviewsWithRatingCount": 1848,
+            "ratingSpecificCount": [
+                {
+                    "id": "5",
+                    "rating": 5,
+                    "count": 1546,
+                    "__typename": "ReviewRatingSpecific"
+                },
+                {
+                    "id": "4",
+                    "rating": 4,
+                    "count": 255,
+                    "__typename": "ReviewRatingSpecific"
+                },
+                {
+                    "id": "3",
+                    "rating": 3,
+                    "count": 34,
+                    "__typename": "ReviewRatingSpecific"
+                },
+                {
+                    "id": "2",
+                    "rating": 2,
+                    "count": 5,
+                    "__typename": "ReviewRatingSpecific"
+                },
+                {
+                    "id": "1",
+                    "rating": 1,
+                    "count": 8,
+                    "__typename": "ReviewRatingSpecific"
+                }
+            ],
+            "__typename": "Product",
+            "reviews": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "764416",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 4,
+                            "body": "There are some editing detail experience issues that have yet to be resolved.",
+                            "user": {
+                                "id": "4409965",
+                                "name": "Bryant.Chen",
+                                "url": "https://www.producthunt.com/@bryantchen",
+                                "username": "bryantchen",
+                                "headline": "Product Manager",
+                                "reviewsCount": 4,
+                                "avatarUrl": "https://ph-avatars.imgix.net/4409965/daed414a-3fd1-42f7-b124-66e9b3b0d801.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "1137597",
+                                    "jobTitle": "Product",
+                                    "companyName": null,
+                                    "product": {
+                                        "id": "586614",
+                                        "name": "Motiff",
+                                        "slug": "motiff",
+                                        "__typename": "Product"
+                                    },
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 74,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2024-05-10T11:20:19-07:00",
+                            "hasVoted": false,
+                            "votesCount": 2,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "560977",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "Amazing for Project Management, Portfolio and work management",
+                            "user": {
+                                "id": "3444589",
+                                "name": "Rudresh Dixit",
+                                "url": "https://www.producthunt.com/@rudresh_dixit",
+                                "username": "rudresh_dixit",
+                                "headline": "Product Guy",
+                                "reviewsCount": 1,
+                                "avatarUrl": "https://ph-avatars.imgix.net/3444589/original.jpeg",
+                                "__typename": "User",
+                                "work": null,
+                                "followersCount": 5,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2022-12-22T01:39:09-08:00",
+                            "hasVoted": false,
+                            "votesCount": 5,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "630836",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "Notion has completely transformed the way I organise and manage my life and work. This remarkable platform deserves a solid 5 out of 5 rating from me. Notion provides a seamless and intuitive experience that has significantly enhanced my productivity and efficiency.",
+                            "user": {
+                                "id": "5377658",
+                                "name": "Himanshu ",
+                                "url": "https://www.producthunt.com/@himanshu_28",
+                                "username": "himanshu_28",
+                                "headline": "Game Developer \u0026 3D Artist",
+                                "reviewsCount": 4,
+                                "avatarUrl": "https://ph-avatars.imgix.net/5377658/fd145e99-5c13-4828-8b9d-dc67ab8eff06.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "276290",
+                                    "jobTitle": null,
+                                    "companyName": null,
+                                    "product": null,
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 497,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2023-06-16T03:31:17-07:00",
+                            "hasVoted": false,
+                            "votesCount": 2,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "607621",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "Pretty good tool! Super helpful for creating a database of team knowledge. Love the customization options (highlighting, different headings, emojis, embedding, etc.). Checking out who else has seen the doc is great too.",
+                            "user": {
+                                "id": "5442485",
+                                "name": "Vanisa Punwani",
+                                "url": "https://www.producthunt.com/@nisap",
+                                "username": "nisap",
+                                "headline": "Executive Assistant at SoWork",
+                                "reviewsCount": 8,
+                                "avatarUrl": "https://ph-avatars.imgix.net/5442485/original.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "337246",
+                                    "jobTitle": null,
+                                    "companyName": null,
+                                    "product": null,
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 34,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2023-04-19T11:21:11-07:00",
+                            "hasVoted": false,
+                            "votesCount": 3,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "648823",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "Notion is a great tool for organizing, taking notes, tracking tasks, and collaborating with teams. It's a great way to keep everything in one place and streamline productivity.",
+                            "user": {
+                                "id": "4693795",
+                                "name": "Ayesha Awan",
+                                "url": "https://www.producthunt.com/@ayesha_awan1",
+                                "username": "ayesha_awan1",
+                                "headline": "Cofounder at SocialBu❤",
+                                "reviewsCount": 10,
+                                "avatarUrl": "https://ph-avatars.imgix.net/4693795/original.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "318313",
+                                    "jobTitle": "Marketing",
+                                    "companyName": "",
+                                    "product": {
+                                        "id": "454357",
+                                        "name": "SocialBu",
+                                        "slug": "socialbu",
+                                        "__typename": "Product"
+                                    },
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 919,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2023-07-20T05:28:41-07:00",
+                            "hasVoted": false,
+                            "votesCount": 1,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "702868",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 4,
+                            "body": "Great app! Friendly UI and useful features",
+                            "user": {
+                                "id": "6363726",
+                                "name": "Mari",
+                                "url": "https://www.producthunt.com/@shelm",
+                                "username": "shelm",
+                                "headline": "QA",
+                                "reviewsCount": 5,
+                                "avatarUrl": "https://ph-avatars.imgix.net/6363726/1bf14c19-0f80-4cda-980b-438d2d211e62.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "1020084",
+                                    "jobTitle": null,
+                                    "companyName": null,
+                                    "product": null,
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 33,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2023-11-21T03:03:06-08:00",
+                            "hasVoted": false,
+                            "votesCount": 4,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "658378",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "I use it at work. It is easy to systematize and structure information. There are many opportunities for highlighting blocks of information",
+                            "user": {
+                                "id": "5965061",
+                                "name": "Dora",
+                                "url": "https://www.producthunt.com/@darya98",
+                                "username": "darya98",
+                                "headline": "QA-engineer",
+                                "reviewsCount": 9,
+                                "avatarUrl": "https://ph-avatars.imgix.net/5965061/ec5354d3-4490-4e51-be8f-02123dcfdc0d.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "746741",
+                                    "jobTitle": "Other",
+                                    "companyName": "",
+                                    "product": null,
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 150,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2023-08-13T09:13:34-07:00",
+                            "hasVoted": false,
+                            "votesCount": 8,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "664761",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "Cool service! Can't imagine my life without it",
+                            "user": {
+                                "id": "5962267",
+                                "name": "Nick Yudo",
+                                "url": "https://www.producthunt.com/@mownaster",
+                                "username": "mownaster",
+                                "headline": "QA Lead",
+                                "reviewsCount": 3,
+                                "avatarUrl": "https://ph-avatars.imgix.net/5962267/78dd84f8-551d-4701-ac37-8c61943f8215.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "744774",
+                                    "jobTitle": null,
+                                    "companyName": null,
+                                    "product": null,
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 31,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2023-08-25T02:23:44-07:00",
+                            "hasVoted": false,
+                            "votesCount": 2,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "893001",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "Notion is a really versatile tool. It’s great for organizing notes, tasks, and projects all in one place. I love the flexibility it offers, but sometimes it feels a bit overwhelming with all the features. Still, it’s awesome for personal and team use.",
+                            "user": {
+                                "id": "6875731",
+                                "name": "Isaac Dour",
+                                "url": "https://www.producthunt.com/@izdour",
+                                "username": "izdour",
+                                "headline": "Passionate product explorer and sharer.",
+                                "reviewsCount": 4,
+                                "avatarUrl": "https://ph-avatars.imgix.net/6875731/e6f449ec-9f00-4e8b-957c-af842337e9fb.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "1363817",
+                                    "jobTitle": "Product",
+                                    "companyName": null,
+                                    "product": null,
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 31,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2024-11-04T21:45:43-08:00",
+                            "hasVoted": false,
+                            "votesCount": 1,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "721899",
+                            "sentiment": null,
+                            "comment": null,
+                            "rating": 5,
+                            "body": "Definitely a learning curve, but great once you master it",
+                            "user": {
+                                "id": "4771308",
+                                "name": "Samantha aka CandyToyBox",
+                                "url": "https://www.producthunt.com/@candytoybox",
+                                "username": "candytoybox",
+                                "headline": "Web3 Newsletters",
+                                "reviewsCount": 1,
+                                "avatarUrl": "https://ph-avatars.imgix.net/4771308/3a1e23ef-1b7f-4e9c-9c78-6d10b886a86c.jpeg",
+                                "__typename": "User",
+                                "work": {
+                                    "id": "558674",
+                                    "jobTitle": null,
+                                    "companyName": null,
+                                    "product": null,
+                                    "__typename": "UserWork"
+                                },
+                                "followersCount": 127,
+                                "isFollowed": false,
+                                "isAccountVerified": false
+                            },
+                            "post": null,
+                            "productAnswers": null,
+                            "createdAt": "2024-01-14T19:40:02-08:00",
+                            "hasVoted": false,
+                            "votesCount": 1,
+                            "canDestroy": false,
+                            "__typename": "Review",
+                            "url": "https://www.producthunt.com/products/notion/reviews",
+                            "canUpdate": false,
+                            "product": {
+                                "id": "106091",
+                                "name": "Notion",
+                                "slug": "notion",
+                                "__typename": "Product"
+                            },
+                            "canReply": false,
+                            "isHidden": false,
+                            "commentsCount": 0,
+                            "threads": {
+                                "totalCount": 0,
+                                "edges": [],
+                                "pageInfo": {
+                                    "endCursor": null,
+                                    "hasNextPage": false,
+                                    "__typename": "PageInfo"
+                                },
+                                "__typename": "CommentConnection"
+                            }
+                        },
+                        "__typename": "ReviewEdge"
+                    }
+                ],
+                "totalCount": 2891,
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "endCursor": "MjA",
+                    "__typename": "PageInfo"
+                },
+                "__typename": "ReviewConnection"
+            },
+            "alternativesCount": 305,
+            "alternativeAssociations": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "138350",
+                            "alternative": {
+                                "id": "93519",
+                                "slug": "coda",
+                                "name": "Coda",
+                                "tagline": "A new doc for teams",
+                                "logoUuid": "795e67b6-8dd9-4ca8-b057-48a91dee51ea.jpeg",
+                                "isNoLongerOnline": false,
+                                "__typename": "Product"
+                            },
+                            "__typename": "ProductAssociation"
+                        },
+                        "__typename": "ProductAssociationEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "729842",
+                            "alternative": {
+                                "id": "112741",
+                                "slug": "trello",
+                                "name": "Trello",
+                                "tagline": "Visual collaboration with a shared perspective on projects",
+                                "logoUuid": "84609ac8-ee09-40f9-8be3-d7e90145081a.jpeg",
+                                "isNoLongerOnline": false,
+                                "__typename": "Product"
+                            },
+                            "__typename": "ProductAssociation"
+                        },
+                        "__typename": "ProductAssociationEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "222134",
+                            "alternative": {
+                                "id": "108940",
+                                "slug": "basecamp",
+                                "name": "Basecamp",
+                                "tagline": "Everything you need to get work done in one place",
+                                "logoUuid": "92f47709-ee31-4a20-8815-2ea52e4a13c0.jpeg",
+                                "isNoLongerOnline": false,
+                                "__typename": "Product"
+                            },
+                            "__typename": "ProductAssociation"
+                        },
+                        "__typename": "ProductAssociationEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "186469",
+                            "alternative": {
+                                "id": "113383",
+                                "slug": "fyi",
+                                "name": "fyi",
+                                "tagline": "Find your documents in 3 clicks or less",
+                                "logoUuid": "6173e474-bf17-410c-9b6d-1f22b56ff5e1.gif",
+                                "isNoLongerOnline": false,
+                                "__typename": "Product"
+                            },
+                            "__typename": "ProductAssociation"
+                        },
+                        "__typename": "ProductAssociationEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "506066",
+                            "alternative": {
+                                "id": "113522",
+                                "slug": "airtable",
+                                "name": "Airtable",
+                                "tagline": "The perfect tool to stay organized",
+                                "logoUuid": "ec714738-1a69-4821-ac8d-af4eff63d4d4.jpeg",
+                                "isNoLongerOnline": false,
+                                "__typename": "Product"
+                            },
+                            "__typename": "ProductAssociation"
+                        },
+                        "__typename": "ProductAssociationEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "301553",
+                            "alternative": {
+                                "id": "113070",
+                                "slug": "asana",
+                                "name": "Asana",
+                                "tagline": "Track, manage, and connect your projects across any team",
+                                "logoUuid": "1bf8e033-99c1-4442-b3da-e11d03c56559.jpeg",
+                                "isNoLongerOnline": false,
+                                "__typename": "Product"
+                            },
+                            "__typename": "ProductAssociation"
+                        },
+                        "__typename": "ProductAssociationEdge"
+                    }
+                ],
+                "__typename": "ProductAssociationConnection"
+            },
+            "viewerReview": null,
+            "tagline": "The all-in-one workspace",
+            "logoUuid": "ff3e2acf-884a-4f4c-a383-6edfe3de0d88.png",
+            "isNoLongerOnline": false,
+            "url": "https://www.producthunt.com/products/notion"
+        }
+    }
+}
