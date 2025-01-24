@@ -6,7 +6,7 @@ import { getYouTubeComments } from './01_youtubeVideoDetails/youtubeCommentsScra
 import { G2ReviewExtract } from './02_G2ReviewExtract/G2ReviewExtract.js';
 import { ProductHuntCommentExtract } from './03_ProductHuntCommentExtract/ProductHuntCommentExtract.js';
 import { youtubeVideoSearch } from './04_youtubeVideoSearch/youtubeVideoSearch.js';
-import {videoSearch} from './YouTube/VideoSearch.js'
+import { videoSearch } from './06_YouTube/VideoSearch.js';
 import readline from 'readline';
 
 const puppeteerExtra = new PuppeteerExtra(puppeteer as unknown as PuppeteerNode);
@@ -18,8 +18,8 @@ const rl = readline.createInterface({
 });
 
 async function getScraperType(): Promise<string> {
-    return new Promise((resolve) => {
-        rl.question('Choose scraper (youtube(1)/g2(2)/producthunt(3)/youtubeSearch(4)): / videoseaarch(5) ', (type) => {
+    return new Promise(resolve => {
+        rl.question('Choose scraper (youtube(1)/g2(2)/producthunt(3)/youtubeSearch(4)): / videoseaarch(5) ', type => {
             rl.close();
             resolve(type);
         });
@@ -28,8 +28,8 @@ async function getScraperType(): Promise<string> {
 
 async function main() {
     const scraperType = await getScraperType();
-    
-    const browser = await puppeteerExtra.launch({ 
+
+    const browser = await puppeteerExtra.launch({
         headless: false,
         defaultViewport: {
             width: 1600,
@@ -40,8 +40,8 @@ async function main() {
 
     try {
         const page = await browser.newPage();
-        
-        switch(scraperType) {
+
+        switch (scraperType) {
             case '1':
                 await getYouTubeComments(page, SCRAPER_INPUTS.youtube);
                 break;
@@ -67,4 +67,4 @@ async function main() {
     }
 }
 
-main().catch(console.error); 
+main().catch(console.error);
