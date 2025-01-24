@@ -11,6 +11,7 @@ const links = (async () => {
         height: 1000,
         deviceScaleFactor: 1,
     });
+    
     await page.goto(`https://www.youtube.com/results?search_query=${query}`);
     await page.waitForSelector('.yt-simple-endpoint');
     const links = await page.$$eval('a#video-title', (video) => {

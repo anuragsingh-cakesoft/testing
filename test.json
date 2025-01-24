@@ -1,0 +1,232 @@
+[
+  {
+    "responseContent": {},
+    "trackingParams": "CAAQg2ciEwjR-pCdpsCKAxX6S_UFHSpfH0yCARoIfxC-dSITCMGs3YimwIoDFbE2ewcdoEUSVw==",
+    "OnResponseReceivedEndpoints": [{}, {}],
+    "frameworkUpdates": {
+      "entityBatchUpdate": {
+        "mutations": [
+          {
+            "entityKey": "EhpVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZyAoKAE%3D",
+            "type": "ENTITY_MUTATION_TYPE_REPLACE",
+            "payload": {
+              "commentEntityPayload": {
+                "key": "EhpVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZyAoKAE%3D",
+                "properties": {
+                  "commentId": "UgxIa6n0wMg_wqXqxIp4AaABAg",
+                  "content": {
+                    "content": "100 booked appointments a week, in any industry, is an astounding number.  Humble yourselves before thinking that is attainable."
+                  },
+                  "publishedTime": "1 year ago (edited)",
+                  "replyLevel": 0,
+                  "authorButtonA11y": "@MrToth8",
+                  "toolbarStateKey": "EhpVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZyAsKAE%3D",
+                  "translateButtonEntityKey": "EhpVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZyD_ASgB"
+                },
+                "author": {
+                  "channelId": "UCFegXyKu5c012cvPDR418gw",
+                  "displayName": "@MrToth8",
+                  "avatarThumbnailUrl": "https://yt3.ggpht.com/M8MPc1TJ9NhMV1-XzmOBW_oPc1SpbS3qU9l2EeHGL4wmxI81VJ2gWfQuDJRhBhn_-MBy61gGFQ=s88-c-k-c0x00ffffff-no-rj",
+                  "isVerified": false,
+                  "isCurrentUser": false,
+                  "isCreator": false,
+                  "channelCommand": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CDoQtnUiEwjBrN2IpsCKAxWxNnsHHaBFElc=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/@MrToth8",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCFegXyKu5c012cvPDR418gw",
+                        "canonicalBaseUrl": "/@MrToth8"
+                      }
+                    }
+                  },
+                  "isArtist": false
+                },
+                "toolbar": {
+                  "likeCountLiked": "43",
+                  "likeCountNotliked": "42",
+                  "replyCount": "3",
+                  "creatorThumbnailUrl": "https://yt3.ggpht.com/ytc/AIdro_kDeoIK12ZXkdAp_Adfxlwe1t0RUOxUlE0e5FRpmE2rsVw=s88-c-k-c0x00ffffff-no-rj",
+                  "likeButtonA11y": "Like this comment along with 42 other people",
+                  "engagementToolbarStyle": {
+                    "value": "ENGAGEMENT_TOOLBAR_STYLE_VALUE_DEFAULT"
+                  },
+                  "likeCountA11y": "42 likes",
+                  "replyCountA11y": "3 replies",
+                  "likeInactiveTooltip": "Like",
+                  "likeActiveTooltip": "Unlike",
+                  "dislikeInactiveTooltip": "Dislike",
+                  "dislikeActiveTooltip": "Remove dislike",
+                  "heartActiveTooltip": "❤ by Ravi Abuvala"
+                },
+                "avatar": {
+                  "image": {
+                    "sources": [
+                      {
+                        "url": "https://yt3.ggpht.com/M8MPc1TJ9NhMV1-XzmOBW_oPc1SpbS3qU9l2EeHGL4wmxI81VJ2gWfQuDJRhBhn_-MBy61gGFQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                      }
+                    ],
+                    "processor": {
+                      "borderImageProcessor": {
+                        "circular": true
+                      }
+                    }
+                  },
+                  "accessibilityText": "@MrToth8",
+                  "avatarImageSize": "AVATAR_SIZE_40",
+                  "endpoint": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CDoQtnUiEwjBrN2IpsCKAxWxNnsHHaBFElc=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/@MrToth8",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCFegXyKu5c012cvPDR418gw",
+                        "canonicalBaseUrl": "/@MrToth8"
+                      }
+                    }
+                  }
+                },
+                "readMoreLogging": {
+                  "trackingParams": "CDsQr7QGIhMIwazdiKbAigMVsTZ7Bx2gRRJX",
+                  "loggingDirectives": {
+                    "trackingParams": "CDsQr7QGIhMIwazdiKbAigMVsTZ7Bx2gRRJX",
+                    "visibility": {
+                      "types": "12"
+                    }
+                  }
+                }
+              }
+            }
+          },
+
+          {
+            "entityKey": "EjFVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZy45ckU0cnVtaFUyWTlzSk1wSWN3QTFiICgoAQ%3D%3D",
+            "type": "ENTITY_MUTATION_TYPE_REPLACE",
+            "payload": {
+              "commentEntityPayload": {
+                "key": "EjFVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZy45ckU0cnVtaFUyWTlzSk1wSWN3QTFiICgoAQ%3D%3D",
+                "properties": {
+                  "commentId": "UgxIa6n0wMg_wqXqxIp4AaABAg.9rE4rumhU2Y9sJMpIcwA1b",
+                  "content": {
+                    "content": "Thank you for your perspective!"
+                  },
+                  "publishedTime": "1 year ago",
+                  "replyLevel": 1,
+                  "authorButtonA11y": "@RaviAbuvala",
+                  "toolbarStateKey": "EjFVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZy45ckU0cnVtaFUyWTlzSk1wSWN3QTFiICwoAQ%3D%3D",
+                  "translateButtonEntityKey": "EjFVZ3hJYTZuMHdNZ193cVhxeElwNEFhQUJBZy45ckU0cnVtaFUyWTlzSk1wSWN3QTFiIP8BKAE%3D"
+                },
+                "author": {
+                  "channelId": "UCtlUhgwHbSXQQuh4fzDmVLA",
+                  "displayName": "@RaviAbuvala",
+                  "avatarThumbnailUrl": "https://yt3.ggpht.com/ytc/AIdro_kDeoIK12ZXkdAp_Adfxlwe1t0RUOxUlE0e5FRpmE2rsVw=s88-c-k-c0x00ffffff-no-rj",
+                  "isVerified": false,
+                  "isCurrentUser": false,
+                  "isCreator": true,
+                  "channelCommand": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CAgQtnUiEwjR-pCdpsCKAxX6S_UFHSpfH0w=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/@RaviAbuvala",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCtlUhgwHbSXQQuh4fzDmVLA",
+                        "canonicalBaseUrl": "/@RaviAbuvala"
+                      }
+                    }
+                  },
+                  "isArtist": false
+                },
+                "toolbar": {
+                  "likeCountLiked": "8",
+                  "likeCountNotliked": "7",
+                  "replyCount": "",
+                  "creatorThumbnailUrl": "https://yt3.ggpht.com/ytc/AIdro_kDeoIK12ZXkdAp_Adfxlwe1t0RUOxUlE0e5FRpmE2rsVw=s88-c-k-c0x00ffffff-no-rj",
+                  "likeButtonA11y": "Like this reply along with 7 other people",
+                  "engagementToolbarStyle": {
+                    "value": "ENGAGEMENT_TOOLBAR_STYLE_VALUE_DEFAULT"
+                  },
+                  "likeCountA11y": "7 likes",
+                  "replyCountA11y": "0 replies",
+                  "likeInactiveTooltip": "Like",
+                  "likeActiveTooltip": "Unlike",
+                  "dislikeInactiveTooltip": "Dislike",
+                  "dislikeActiveTooltip": "Remove dislike",
+                  "heartActiveTooltip": "❤ by Ravi Abuvala"
+                },
+                "avatar": {
+                  "image": {
+                    "sources": [
+                      {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_kDeoIK12ZXkdAp_Adfxlwe1t0RUOxUlE0e5FRpmE2rsVw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                      }
+                    ],
+                    "processor": {
+                      "borderImageProcessor": {
+                        "circular": true
+                      }
+                    }
+                  },
+                  "accessibilityText": "@RaviAbuvala",
+                  "avatarImageSize": "AVATAR_SIZE_XS",
+                  "endpoint": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CAgQtnUiEwjR-pCdpsCKAxX6S_UFHSpfH0w=",
+                      "commandMetadata": {
+                        "webCommandMetadata": {
+                          "url": "/@RaviAbuvala",
+                          "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                          "rootVe": 3611,
+                          "apiUrl": "/youtubei/v1/browse"
+                        }
+                      },
+                      "browseEndpoint": {
+                        "browseId": "UCtlUhgwHbSXQQuh4fzDmVLA",
+                        "canonicalBaseUrl": "/@RaviAbuvala"
+                      }
+                    }
+                  }
+                },
+                "readMoreLogging": {
+                  "trackingParams": "CAkQr7QGIhMI0fqQnabAigMV-kv1BR0qXx9M",
+                  "loggingDirectives": {
+                    "trackingParams": "CAkQr7QGIhMI0fqQnabAigMV-kv1BR0qXx9M",
+                    "visibility": {
+                      "types": "12"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "timestamp": {
+          "seconds": "1735039610",
+          "nanos": 400669789
+        }
+      }
+    }
+  }
+]
