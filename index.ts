@@ -8,6 +8,10 @@ import { ProductHuntCommentExtract } from './03_ProductHuntCommentExtract/Produc
 import { youtubeVideoSearch } from './04_youtubeVideoSearch/youtubeVideoSearch.js';
 import { videoSearch } from './06_YouTube/VideoSearch.js';
 import readline from 'readline';
+import { CapterraExtract } from './09_Capterra/Capterra.js';
+import { capterra } from './inputs.js';
+import { TrustPilotExtract } from './10_Trustpilot/TrustPilot.js';
+import { trustpilot } from './inputs.js';
 
 const puppeteerExtra = new PuppeteerExtra(puppeteer as unknown as PuppeteerNode);
 puppeteerExtra.use(StealthPlugin());
@@ -19,10 +23,13 @@ const rl = readline.createInterface({
 
 async function getScraperType(): Promise<string> {
     return new Promise(resolve => {
-        rl.question('Choose scraper (youtube(1)/g2(2)/producthunt(3)/youtubeSearch(4)): / videoseaarch(5) ', type => {
-            rl.close();
-            resolve(type);
-        });
+        rl.question(
+            'Choose scraper (youtube(1)/g2(2)/producthunt(3)/youtubeSearch(4)/videoSearch(5)/capterra(6)/trustpilot(7)): ',
+            type => {
+                rl.close();
+                resolve(type);
+            }
+        );
     });
 }
 
@@ -56,6 +63,12 @@ async function main() {
                 break;
             case '5':
                 await videoSearch(page);
+                break;
+            case '6':
+                await CapterraExtract(page, capterra);
+                break;
+            case '7':
+                await TrustPilotExtract(page, trustpilot);
                 break;
             default:
                 console.log('Invalid scraper type');

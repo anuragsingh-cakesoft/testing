@@ -1,6 +1,6 @@
 import { Page } from 'puppeteer';
 import { promises as fs } from 'fs';
-import { generateYoutubeSearchUrl } from '../urlgenerator.js';
+import { generateYoutubeSearchUrl } from '../07_YouTubeURL/urlgenerator.js';
 import * as cheerio from 'cheerio';
 
 interface YouTubeSearchResult {
@@ -37,7 +37,7 @@ function processInitialData(responseData: any): {
 
     // Helper function to process video renderers
     const processVideoRenderer = (videoRenderer: any) => {
-        const isShort = videoRenderer?.navigationEndpoint?.commandMetadata?.webPageType === "WEB_PAGE_TYPE_SHORTS";
+        const isShort = videoRenderer?.navigationEndpoint?.commandMetadata?.webPageType === 'WEB_PAGE_TYPE_SHORTS';
         if (isShort) {
             shorts.push({
                 youTubeVideo: videoRenderer,
@@ -69,17 +69,14 @@ function processInitialData(responseData: any): {
     const processContentItem = (item: any) => {
         if (item.videoRenderer) {
             processVideoRenderer(item.videoRenderer);
-        }
-        else if (item.channelRenderer) {
+        } else if (item.channelRenderer) {
             channels.push({
                 youTubeVideo: '',
                 youTubeChannel: item.channelRenderer
             });
-        }
-        else if (item.reelShelfRenderer) {
+        } else if (item.reelShelfRenderer) {
             processReelShelf(item.reelShelfRenderer);
-        }
-        else if (item.shelfRenderer?.content?.items) {
+        } else if (item.shelfRenderer?.content?.items) {
             // Process items inside shelf
             item.shelfRenderer.content.items.forEach((shelfItem: any) => {
                 processContentItem(shelfItem);
@@ -88,11 +85,8 @@ function processInitialData(responseData: any): {
     };
 
     // Navigate to the main contents array
-    const mainContents = responseData?.contents
-        ?.twoColumnSearchResultsRenderer
-        ?.primaryContents
-        ?.sectionListRenderer
-        ?.contents || [];
+    const mainContents =
+        responseData?.contents?.twoColumnSearchResultsRenderer?.primaryContents?.sectionListRenderer?.contents || [];
 
     // Process each item in the main contents
     mainContents.forEach((section: any) => {
@@ -115,13 +109,14 @@ function processLaterData(responseData: any): {
     const shorts: YouTubeSearchResult[] = [];
     const channels: YouTubeSearchResult[] = [];
 
-    const continuationItems = responseData?.onResponseReceivedCommands?.[0]
-        ?.appendContinuationItemsAction?.continuationItems?.[0]
-        ?.itemSectionRenderer?.contents || [];
+    const continuationItems =
+        responseData?.onResponseReceivedCommands?.[0]?.appendContinuationItemsAction?.continuationItems?.[0]
+            ?.itemSectionRenderer?.contents || [];
 
     continuationItems.forEach((item: any) => {
         if (item.videoRenderer) {
-            const isShort = item.videoRenderer?.navigationEndpoint?.commandMetadata?.webPageType === "WEB_PAGE_TYPE_SHORTS";
+            const isShort =
+                item.videoRenderer?.navigationEndpoint?.commandMetadata?.webPageType === 'WEB_PAGE_TYPE_SHORTS';
             if (isShort) {
                 shorts.push({
                     youTubeVideo: item.videoRenderer,
@@ -133,8 +128,7 @@ function processLaterData(responseData: any): {
                     youTubeChannel: item.videoRenderer.ownerText || {}
                 });
             }
-        } 
-        else if (item.channelRenderer) {
+        } else if (item.channelRenderer) {
             channels.push({
                 youTubeVideo: '',
                 youTubeChannel: item.channelRenderer
@@ -177,11 +171,15 @@ export async function youtubeVideoSearch(page: Page, youtubeSearch: any): Promis
                                 const processedInitialData = processInitialData(initialData);
                                 await fs.writeFile(
                                     './04_youtubeVideoSearch/outputs/initial_data.json',
-                                    JSON.stringify({
-                                        searchQuery: youtubeSearch.searchQuery,
-                                        searchUrl,
-                                        results: processedInitialData
-                                    }, null, 2)
+                                    JSON.stringify(
+                                        {
+                                            searchQuery: youtubeSearch.searchQuery,
+                                            searchUrl,
+                                            results: processedInitialData
+                                        },
+                                        null,
+                                        2
+                                    )
                                 );
                                 console.log('Initial data processed:', {
                                     videos: processedInitialData.videos.length,
@@ -195,11 +193,15 @@ export async function youtubeVideoSearch(page: Page, youtubeSearch: any): Promis
                 } else if (url.includes('search?prettyPrint=false')) {
                     const responseData = await response.json();
                     laterData.push(responseData);
-                    
+
                     // Process and save later data using the new function
                     await fs.writeFile(
                         './04_youtubeVideoSearch/outputs/later_data.json',
-                        JSON.stringify(laterData.map(data => processLaterData(data)), null, 2)
+                        JSON.stringify(
+                            laterData.map(data => processLaterData(data)),
+                            null,
+                            2
+                        )
                     );
 
                     const processedData = processLaterData(responseData);
@@ -244,7 +246,7 @@ export async function youtubeVideoSearch(page: Page, youtubeSearch: any): Promis
         if (initialData) {
             const processedInitialData = processInitialData(initialData);
             const allProcessedLaterData = laterData.map(data => processLaterData(data));
-            
+
             // Combine all results
             const combinedResults = {
                 videos: [...processedInitialData.videos],
@@ -262,11 +264,15 @@ export async function youtubeVideoSearch(page: Page, youtubeSearch: any): Promis
             // Save only the final combined results
             await fs.writeFile(
                 './04_youtubeVideoSearch/outputs/final_data.json',
-                JSON.stringify({
-                    searchQuery: youtubeSearch.searchQuery,
-                    searchUrl,
-                    results: combinedResults
-                }, null, 2)
+                JSON.stringify(
+                    {
+                        searchQuery: youtubeSearch.searchQuery,
+                        searchUrl,
+                        results: combinedResults
+                    },
+                    null,
+                    2
+                )
             );
 
             console.log('All data saved successfully');
@@ -276,7 +282,6 @@ export async function youtubeVideoSearch(page: Page, youtubeSearch: any): Promis
                 channels: combinedResults.channels.length
             });
         }
-
     } catch (error) {
         console.error('Error in YouTube video search:', error);
     }

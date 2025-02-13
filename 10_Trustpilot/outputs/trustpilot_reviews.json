@@ -1,0 +1,2506 @@
+{
+  "productUrl": "https://www.trustpilot.com/review/notion.so",
+  "totalReviews": 100,
+  "reviews": [
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/67abde46ed410ff4b1dafa36",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Hugh Gee",
+        "url": "https://www.trustpilot.com/users/5460bcd000006400019582b7/"
+      },
+      "datePublished": "2025-02-12T01:33:26.000Z",
+      "headline": "SLOW SLOW and SLOWER..",
+      "reviewBody": "SLOW SLOW and SLOWER... UNUSABLEWhen Notion started it was great. But think they are victim of their own success... Notion has become unusable because it is so damn SLOW. Pages take ages to load and when you paste images for example... sometime it simply does't work or respond... So I asked to Notion AI \"Why is Notion so slow\" ... The AI didn't respond either...useless",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/67a9f7f271b40615645e9324",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Anurag Singh",
+        "url": "https://www.trustpilot.com/users/67a9f74658a0a91c54cd0b8e/"
+      },
+      "datePublished": "2025-02-10T14:58:26.000Z",
+      "headline": "i just want to say thanks to nation ",
+      "reviewBody": "i just want to say thanks to nation , i can't explain how much notion help me in my life ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6799cff9a851893a8dddf818",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Oliver Marshall",
+        "url": "https://www.trustpilot.com/users/64ddf6423610b700117cec5b/"
+      },
+      "datePublished": "2025-01-29T08:51:37.000Z",
+      "headline": "Industry leading customer experience!!!",
+      "reviewBody": "It is really difficult to find great service these days, even more so in the software space. That is not the case with Notion. I really enjoy the software as a whole and my particular use case, but my recent experience with their customer service team was phenomenal!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6783b91eea45b6d120ff44a5",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Andy Whyte",
+        "url": "https://www.trustpilot.com/users/4e16dd8a000064000109e7a5/"
+      },
+      "datePublished": "2025-01-12T14:44:14.000Z",
+      "headline": "Refused refund despite immediate request.",
+      "reviewBody": "Rip off merchants. I didn't login for three months and only logged in to shut my account down, but it triggered an invoice that I immediately queried for a refund which they refuse. It's almost the most overrated software on the internet. It's like they designed it to have a poor and frustrating user experience. Stick to Notes or if you need something richer go for Obsidian. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/67965120694600e59c99e64f",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ulric Collette",
+        "url": "https://www.trustpilot.com/users/679651183fcbf75883976d5b/"
+      },
+      "datePublished": "2025-01-26T17:13:36.000Z",
+      "headline": "I’m very disappointed with Notion’s…",
+      "reviewBody": "I’m very disappointed with Notion’s refund policy. I accidentally added a member to my annual subscription and contacted support, but they refused a refund because I didn’t reach out within 3 days.What’s frustrating is their policy allows 30 days to request refunds for annual subscriptions, yet this doesn’t apply to accidental member additions. This inconsistency is unfair, especially for an honest mistake. I find their approach rigid and lacking understanding toward users. Greater flexibility could have avoided this poor experience.Additionally, they could have been more transparent at the time of renewal about the cost of using their AI features, which were free during the first year.Due to these issues, I will not be renewing my subscription after my current annual period ends.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/679753bfd2090e86206f9480",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Frederico Pereira",
+        "url": "https://www.trustpilot.com/users/51ee8175000064000144eb3d/"
+      },
+      "datePublished": "2025-01-27T11:37:03.000Z",
+      "headline": "Notion is a great piece of software",
+      "reviewBody": "Notion is a great piece of software. I use it everyday as a second brain. It keeps getting better with more features added every year.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6770601466a0278ff4e132e5",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Hossen Imran",
+        "url": "https://www.trustpilot.com/users/606c9261402b0e001a97d1f5/"
+      },
+      "datePublished": "2024-12-28T22:31:16.000Z",
+      "headline": "Site doesn't work most of the time",
+      "reviewBody": "Site doesn't work most of the time. I'm using notion since 2020 I guess. Still can't make it my primary note taking app. Why? Cause there are millions of issues with the site. Even now I've sat down for a deep productive work. So decided to plan my thesis work. And voila. Notion not working. / doesn't bring any component menu. Page option button not working. Cannot drag gallery items. Cannot drag table items. And the list continues. This is it. I quit notion. Stupid app with no consistent interface. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/674eb4d138d14beda30c5e1c",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adrian Ignatescu",
+        "url": "https://www.trustpilot.com/users/50867f48000064000124e064/"
+      },
+      "datePublished": "2024-12-03T09:35:45.000Z",
+      "headline": "don't subscribe with them - they will restrict access",
+      "reviewBody": "Because I was travelling and forgot to cancel my subscription, notion is keeping my Of course, they will reply with some corporate cringe below here probably but one thing is certain. I asked them to unlock my spaces to AT LEAST get the data out and they don't wantBasically, they keep my business-critical content at ransom. Absolutely despicable. WIll move to another PM tool and never go back.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/67673b8766a4fc8f12096c70",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Joanna",
+        "url": "https://www.trustpilot.com/users/6473aa90ba6635001284c2f6/"
+      },
+      "datePublished": "2024-12-22T00:04:55.000Z",
+      "headline": "Received Change Email Address Code, But Don't Have a Notion Account",
+      "reviewBody": "I just received a change email address verification code from Notion.  I've never heard of Notion, nor do I have an account with them.  It's the weekend therefore I will have to wait to reach out to them.  I even searched my email history and have zero emails from Notion apart from this one today December 21, 2024.  This is scary troubling as either it's a phishing scam or someone is using my email address.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/677bdadfc4d10b08ea01bb0c",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Franziskus Hielscher",
+        "url": "https://www.trustpilot.com/users/617fe5fb33cda40012a14b22/"
+      },
+      "datePublished": "2025-01-06T15:30:07.000Z",
+      "headline": "One of the most versatile, notetaking and productivity apps",
+      "reviewBody": "I've been using a distance since 2021, refused for project management, building simple landing pages, project proposals, task management and even to build simple products to sell to clientsThe workspace billing can be a bit confusing, but overall it's a pretty great software",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "4"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6758a6e21c1a91a9197402f6",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "The Rocket Digital",
+        "url": "https://www.trustpilot.com/users/6758a45324a2fe84b80b4f1f/"
+      },
+      "datePublished": "2024-12-10T22:38:58.000Z",
+      "headline": "This is my to go tool to basically everything",
+      "reviewBody": "This is my go-to tool for planning and organizing my agency. It’s incredibly versatile: I use it for project management, building client dashboards, CRM, finance, and more. The best part? You can do it all for free.The only con is that the platform isn’t very intuitive. For example, when it comes to client dashboards, I often run into challenges helping clients understand how to use it effectively.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/67733fdb4102bceefd308505",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "b.",
+        "url": "https://www.trustpilot.com/users/6143c5a5abbb0f0012dbaecf/"
+      },
+      "datePublished": "2024-12-31T02:50:35.000Z",
+      "headline": "DO NOT USE for any sensitive material",
+      "reviewBody": "DO NOT USE for any sensitive material! All of my data has been completely wiped. Hours upon hours of work all gone. Support could not care less either. While this app seems fun to use, do not store anything on there you are not okay with losing.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/676e7c409a84134db3cec4d3",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Tariq Rahman",
+        "url": "https://www.trustpilot.com/users/676e7b0a2040458fb8bc2dbc/"
+      },
+      "datePublished": "2024-12-27T12:06:56.000Z",
+      "headline": "Versatile software tool that caters to many use cases",
+      "reviewBody": "I have been using Notion for a couple of years now. It has been a great experience. I have been using this tool for a variety of use cases. Which is usually not something you can do in most software tools. There is definitely a bit of a learning curve to fully utilize the potential of Notion, but if you put in the effort, you can use it to run your work and life. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6780a10b6dc0ea5134559d84",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ricky",
+        "url": "https://www.trustpilot.com/users/5fb60440fe49f3001ac24e2e/"
+      },
+      "datePublished": "2025-01-10T06:24:43.000Z",
+      "headline": "Won't allow us to cancel after paying…",
+      "reviewBody": "Won't allow us to cancel after paying annual. Most companies pro rata refund. Not notion. 1 star.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66d827990c0320e6f74e3275",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Richard",
+        "url": "https://www.trustpilot.com/users/6571d7d9932a920012595e25/"
+      },
+      "datePublished": "2024-12-20T13:35:17.000Z",
+      "headline": "Delightful second mind if you learn to use it!",
+      "reviewBody": "Notion seems like THE recommended tool by many of the productivity geeks nowadays. As a developer myself, seeing Notion get new and better features all the time as well as support for professional tools such as automations and database-like data managements is absolutely delightful.I used it to track many aspects of my university journey as well as building a virtual library for my physical books and notes. I was constantly surprised that \"omg.. it can also do this!\"",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/671fcbd20613aef5389ad70c",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Steph",
+        "url": "https://www.trustpilot.com/users/671fcbbf916809247bacf3ec/"
+      },
+      "datePublished": "2024-10-28T19:37:22.000Z",
+      "headline": "Bad customer service and deceptive billing",
+      "reviewBody": "Their entire app is setup in a way that's confusing, so be on guard they don't keep charging your \"workspace\" even if you no longer have an account. It's deceptive. Their customer service is condescending and not very helpful.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/674cefd37ee8e432c1cb9073",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Joanna K.",
+        "url": "https://www.trustpilot.com/users/670e616370ce29b761c0d896/"
+      },
+      "datePublished": "2024-12-02T01:22:59.000Z",
+      "headline": "Using notion for organizing my life…",
+      "reviewBody": "Using notion for organizing my life basically.It used to be better and simpler but I guess the advantage is that its more robust now. Could be a perk for more pro users, im just a basic one. I do like that the interface still manages to be relatively clean and simple but still, sometimes I feel that Notion becomes overly complex in the amount of functionalities",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "4"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/674cb4c4c4a653659deb2e55",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Natalie Dunn",
+        "url": "https://www.trustpilot.com/users/6150b4059459de001388fff3/"
+      },
+      "datePublished": "2024-12-01T21:11:00.000Z",
+      "headline": "Useful for note taking and organization",
+      "reviewBody": "I find Notion really useful for taking down notes, and creating useful databases. It also helps me to be organized as well - I use it to make lists of what I need to do.Best of all, you can create as many pages as you need - for free, with all the features you need. I recommend this app to everyone, especially those who need to take notes or plan. It also has AI, which can be really useful too if you need it to help you while you use the app.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66d426f86b8e0ab9ab74dcf2",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Polina Rodionova",
+        "url": "https://www.trustpilot.com/users/63e7aaa9f1a96d001196060f/"
+      },
+      "datePublished": "2024-09-01T10:34:00.000Z",
+      "headline": "The most discriminatory company",
+      "reviewBody": "I made a mistake 3 years ago when I decided to buy a subscription and support the developers. Now I have been living in Europe for a long time and pay with a European card, but because I once paid with a Russian card, they will take away my recently paid subscription and all my data. Think about supporting them, because sooner or later it may come back to bite you.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/664727491c63e48cc76b3b1c",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "kalle louv",
+        "url": "https://www.trustpilot.com/users/6092b1086f2da7001a2a1efd/"
+      },
+      "datePublished": "2024-05-17T11:45:45.000Z",
+      "headline": "DONT SUBSCRIBE TO THIS",
+      "reviewBody": "DONT SUBSCRIBE TO THIS. August this year I stopped my subscription. I can no longer log into my account, but motion have been taking money from my account ever since (12,50 USD/month). After 20+ mails there is still no solution. I have never experienced such bad customer service. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66f8a5bca5bacba6540ab7d1",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "toferrr",
+        "url": "https://www.trustpilot.com/users/66cc033c3964ead3b4611cae/"
+      },
+      "datePublished": "2024-09-29T02:56:28.000Z",
+      "headline": "Recently",
+      "reviewBody": "Recently, I’ve been trying to cancel my membership and switch to the free version since I no longer wanted to pay for the subscription. However, I’m unable to remove my card, and they’ve charged me through an automatic deduction. When I reached out via email to request a refund, they claimed they couldn’t process it because it’s been more than three days since the invoice. But it’s their fault for taking too long to respond, and I have the receipts and everything showing how long they took. Now I’m stuck in this situation, even though it’s not my mistake. Their customer service is terrible.If you want to see them or have a look at them I am open to showing it to you guys :)) screw notion",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66db1d1dbbd63c711eb111f8",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "christos mylonas",
+        "url": "https://www.trustpilot.com/users/6162ad517f2b7e001259f804/"
+      },
+      "datePublished": "2024-09-06T17:17:49.000Z",
+      "headline": "A dream that became a nightmare",
+      "reviewBody": "When I first subscribed to Notion, I realized that they were not honest with pricing. They were showing prices without taxes and suddenly I discovered extra charges for VAT. Almost one year later, when it was about to renew, I discovered that the plan I have cost much more!I searched more on the relevant section and I discovered other invoices issued later, whitout any warning.I finlaty understood , that I had mistakenly activated some extra memers, due to a very delicate distinction between memebrs and quests. When I activated those extra memebrs, I thought it was free. They did not notify me but they charged my card whithout any warning!Looking at internet discussion and forums, there many people that had the same experience!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66d4843be1f70022dfded7f5",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Eren Özşahiner",
+        "url": "https://www.trustpilot.com/users/66d48436d6a807f91cc58eda/"
+      },
+      "datePublished": "2024-09-01T17:11:55.000Z",
+      "headline": "Scammer Company",
+      "reviewBody": "In my bank history, I saw a $80 charge for notion. On August 20, I wrote to notion about the issue and asked them to cancel all subscriptions on my card. This time, on September 1, I received an invoice of around 120 dollars.They did not cancel my card and did not help me with my support. I couldn't avoid their scam until I canceled my credit card from my bank and changed the number. No customer satisfaction or proper communication, they just take as much money as they can. Never trust, you can find many similar and better applications.They caused me to lose more than $200 in total.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66cd8b289c4dee343fc5a61b",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Andrey",
+        "url": "https://www.trustpilot.com/users/622fb47a1fa4c80012a793b5/"
+      },
+      "datePublished": "2024-08-27T10:15:36.000Z",
+      "headline": "Notion deletes accounts by nationality",
+      "reviewBody": "Notion decided to delete all accounts and data (!), including free ones, of Russian users due to “sanctions”, which, by the way, do not limit the distribution of free software.This perfectly characterizes the company and its management.Think well before using Notion, maybe next time they will stop liking your nationality.I'm switching to a local open-source alternative and will never touch Notion again, even when they come back with an apology.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/660c704e58a2f59138f0a756",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Mocab",
+        "url": "https://www.trustpilot.com/users/660c7037cc61750012631b58/"
+      },
+      "datePublished": "2024-04-02T22:53:35.000Z",
+      "headline": "Disappointed..",
+      "reviewBody": "I actually really liked it at first but after noticing a few infuriating issues I decided it was not worth it anymore:1. It is missing basic features like charts, which would be expected of a software like notion2. I am not sure if the the desktop app is based on electron, but it has an obvious memory leak which has not been fixed for a very long time, notion alone uses over 1gb of ram on idle, which is wayyyy more than any browser uses. This should be the utmost priority as no customer would like a simple desktop app to use nearly as much resources",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66c9e180a21b756d3f5c83a6",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Peder Linder",
+        "url": "https://www.trustpilot.com/users/66c9e0f2dd47920bb9069f6c/"
+      },
+      "datePublished": "2024-08-24T15:34:56.000Z",
+      "headline": "They totally ripped us off!!",
+      "reviewBody": "They totally ripped us off!!! My partner accidentally added users when trying to share documents. They had no understanding so we had to pay 5 times the bill that we should have had for a whole year! No consideration from their customer service!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66915bcfcb0b5b2e4c251a55",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Izaak",
+        "url": "https://www.trustpilot.com/users/633321eb424a140012666ae2/"
+      },
+      "datePublished": "2024-07-12T18:37:35.000Z",
+      "headline": "Absolute cowboys",
+      "reviewBody": "Absolute cowboys. Notion \"gifted\" my company $1000 in credit to \"try notion out.\" The small print was that the credit expired after a year. We didn't use Notion. The account was wholly unused and dormant. With zero warnings, Notion quietly started charging us month after month. It took us the best part of a year to realise. They refused to refund anything other than the most recent month. Snakes.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/674b3dd688558663ade283ef",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Noa",
+        "url": "https://www.trustpilot.com/users/639de8359ba6370012fb49da/"
+      },
+      "datePublished": "2024-11-30T18:31:18.000Z",
+      "headline": "Super, from A to Z",
+      "reviewBody": "Offers a lot of things for free, with a Freemium economic model that is optional, which makes you want but does not restrict you. A good balance in my opinion: bravo",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6725336e959564c35a1de97b",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "di hammill",
+        "url": "https://www.trustpilot.com/users/5829da930000ff000a572301/"
+      },
+      "datePublished": "2024-11-01T22:00:46.000Z",
+      "headline": "Its ok to use but when it comes to…",
+      "reviewBody": "Its ok to use but when it comes to renewing, and you want to downgrade you literally can't until you pay the bill for the a.i that you are trying to downgrade from.  If you try to remove the a.i first it says 'pay your invoice first' - a circlular loop of hopelessness that has just seen me pay for a year for something I don't want just so I can have the basic notion.  Five a.i generated generic emails from them none of them understanding what was happening and just telling me to remove the a.i from my account.  I explained it wouldn't let me till I paid the bill (that included the next year of a.i).  Awaiting a refund of £100 - fingers crossed.  now looking at other solutions.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "2"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/64513bd2f9ef31ae3f0987d3",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Tanya Kirilina",
+        "url": "https://www.trustpilot.com/users/64513b8dcaa57c0015535a8a/"
+      },
+      "datePublished": "2023-05-02T18:35:30.000Z",
+      "headline": "Charged $200 for no reason / terrible customer support",
+      "reviewBody": "An awful company with opaque financial practices. They mask huge costs within clicks that are easy to miss and deliberately designed so. Their customer service is non existent with zero empathy for those like myself who have been loyal for years. I tried to explain how the cost, which came into the hundreds was clearly a mistake and all i got was a stock copy and past terms and cons reply - after weeks of waiting. Notion team, word spreads fast and your deceitful ways and you're losing customers.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66fed24d26cab293ee1a16b2",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Andy",
+        "url": "https://www.trustpilot.com/users/668a751903e96024ad18ab9f/"
+      },
+      "datePublished": "2024-10-03T19:20:13.000Z",
+      "headline": "Without a doubt super helpful ",
+      "reviewBody": "I started using notion around a few months ago. I use it for basic tracking of projects and organising each of these projects.It has been thoroughly useful to have all this is one place, seamlessly cross platformed (android phone, iPad and Chromebook). I also contacted recently regarding the lack of pinch zoom ability on iPad app, not a deal breaker, but wondered if there was a bug. Customer service was 100% excellent. They replied with thoroughness and although the feature is not available they put in a vote for the feature to be added.notion has without a doubt helped me towards achieving my projects",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6638de57321c30a2e97dc445",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Saad Asif",
+        "url": "https://www.trustpilot.com/users/63654bbea27383001221c2c1/"
+      },
+      "datePublished": "2024-05-06T15:42:47.000Z",
+      "headline": "Second Class Customer",
+      "reviewBody": "Notion treats android users as second class customers. They always choose to cater to Apple users even though Android has a larger customer base. Notion calendar was released and they have an iOS app but not an android app. The notion app for android is 100 times worse that the version for iOS. I will cancel my subscription and move on to someone that values my business and does not treat me like a second class customer. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6553db417388c12f1d51c909",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kyle",
+        "url": "https://www.trustpilot.com/users/60c8e19256064000191e9f97/"
+      },
+      "datePublished": "2023-11-14T22:40:33.000Z",
+      "headline": "Disgusting billing practices.",
+      "reviewBody": "Disgusting billing practices.I would not at all be surprised if this company is hit with FTC charges in the near future.They will bill you, without notice, upon adding \"members\" to \"workspaces\" without any clarification as to how that works. Honestly not even sure how they got our credit card number.Support took over a week to reply, in the meantime, we were hit with ANOTHER charge.Stay the hell away.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66095ea8eb56220705d78b91",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Gali Davidi",
+        "url": "https://www.trustpilot.com/users/60733c4f122d030019be1e4d/"
+      },
+      "datePublished": "2024-03-31T15:01:29.000Z",
+      "headline": "Charged my CC after cancellation",
+      "reviewBody": "They charged my credit card after cancelation, and make it difficult to stop because you cannot remove or delete your billing info. You literally need to pay with a different card and then cancel that card. When cancelling their upgraded service and moving to \"FREE\" tier they will not let you know you are still enrolled in features that are paid that they have broken out into a different line item, so your account says \"Free\" but it's not. You need to un-enroll from each individual item which I suspect is done on purpose.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/64c27551bbcb08990cecfba9",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Chris Fox",
+        "url": "https://www.trustpilot.com/users/5eeddbeffe48a60b64776ac1/"
+      },
+      "datePublished": "2023-07-27T15:46:57.000Z",
+      "headline": "Still a mess!",
+      "reviewBody": "After years, still even the most basic things don’t work:1) Still no headings beyond H3. 2) Still no print function3) Printing either from browser or via converting to PDF is still causing layout issues with text overlaid on one another. 4) No way to increase the text size of a document. 5) No way to increase the text size on the iPad app so it’s too small for most people to use comfortably. 6) When using it in a browser on iPad the color bar disappears before I can pick a color. 7) Helpdesk is cordial, but none of the issues over the past two years have been fixed. Seriously considering something else after recommending it to so many people.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "2"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/64c96be2bf0071fc325e7a21",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "HTLP Market",
+        "url": "https://www.trustpilot.com/users/5b99f0f54de5666d34bf63e3/"
+      },
+      "datePublished": "2023-08-01T22:32:35.000Z",
+      "headline": "Buyer Beware. Stay away from this company",
+      "reviewBody": "Buyer Beware! Once you provide them with your credit card information, you inadvertently grant them the right to charge you for additional subscriptions for \"workspace\" that you were not aware of. That's right - there's no notification, no email update. You only find out about these charges when you check your bill. You can be charged for additional subscriptions that were merely intended for page sharing. The support team can only explain what you did wrong, but they will either disappear or inform you that their finance team is backlogged and, therefore, unable to handle your refund request promptly. Steer clear of this company. It's disappointing that a tech company conducts its business this way.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66a614224ddd5d92556c7979",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Hamed Kavehei",
+        "url": "https://www.trustpilot.com/users/66a61412adfa6f20ac410806/"
+      },
+      "datePublished": "2024-07-28T11:49:22.000Z",
+      "headline": "All my data is gone ",
+      "reviewBody": "not reliable, you may lost all your data and there is no help from support  they told me ask another person to invite you to the project and still it didnt help.  I will never use online cloud based service for my notes . prefer to keep it local  and safe . ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6706900e28aab4b09f43bdb1",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "peagamr",
+        "url": "https://www.trustpilot.com/users/60cdacc4c3a27e001ab6f50f/"
+      },
+      "datePublished": "2024-10-09T16:15:42.000Z",
+      "headline": "Terrible customer service",
+      "reviewBody": "Terrible customer service. They make it very easy to accidently upgrade to expensive business plan with single misclick which charges your card immediately. Customer service is then very slow to respond and incompetent and refuse to give back full refund.Would be a good platform if customer service was not terrible",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63fe8742d143b326fe423fdb",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "El-lord Ali",
+        "url": "https://www.trustpilot.com/users/5ea755e384263177371f473b/"
+      },
+      "datePublished": "2023-03-01T00:59:14.000Z",
+      "headline": "Worst Support ever.",
+      "reviewBody": "Worst Support ever.. I've lost my workspace with bug in their system, while team removed my workspace from their workspace which is hilarious severe bug, more and more I get in touch with their support for more than 5 days and no one replies to my emails, I don't like this platform and I'll switch into clickup.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66018ba72fafd1e790298377",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Heiko T.",
+        "url": "https://www.trustpilot.com/users/5e736bfc4c154ff54e2f37ee/"
+      },
+      "datePublished": "2024-03-25T16:35:20.000Z",
+      "headline": "Just a pain",
+      "reviewBody": "Using it for a long time. Let's keep it simple: Notion is just a pain in the ass. It is buggy and the content keeps disappearing, creating hours and hours of failed work, just creating frustration, problems and costs.I recommend anyone to try out other apps before dedicating themselves to this cursed service.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6450c55b14b6a9fe05a35813",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Spark Shen",
+        "url": "https://www.trustpilot.com/users/605b7236cb1564001aeb53e6/"
+      },
+      "datePublished": "2023-05-02T10:10:04.000Z",
+      "headline": "TERRIBLE CUSTOMER SUPPORT",
+      "reviewBody": "The platform is excellent until something goes wrong. I lost all my files a couple of nights ago. Took their customer support more than two business days to get back to me with little relevant help to recover files that I urgently need. Even more, Zinith told me to wait online as I sent over the information they requested, so I proceeded to sit in front of my laptop for 4+ hours waiting for an email that never came. And I am still waiting. As I said, great platform but zero customer support, migrate elsewhere to save yourself some trouble.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/615c9f68d12ab8ef515e702d",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Bulat Gazizoff",
+        "url": "https://www.trustpilot.com/users/5e9a1040a222f4050c64cfac/"
+      },
+      "datePublished": "2021-10-05T18:54:32.000Z",
+      "headline": "One app for almost everything (Gdocs + a million apps on steroids)",
+      "reviewBody": "Notion is an app for almost anything work or learning related. It's filled with features that let us customize it however we need; from simple text and complex guidelines to data bases and tables.We use it to store files, tutorials/knowledge base, brand books and guidelines, for onboarding clients and new team members, media plans, ad campaigns, working with influencers... I can list it all day.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63a4a9e62338b6d417a47c54",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "qwen1995",
+        "url": "https://www.trustpilot.com/users/5f3c3d5129878d616a3909b9/"
+      },
+      "datePublished": "2022-12-22T21:03:02.000Z",
+      "headline": "Screwed up Notion Table View",
+      "reviewBody": "Paid subscriber here. Exasperated with the grouping option (by a multi select field) in notion table view which lets me arrange the position of groups but scrambled them up after I leave the view. What's the point of letting us arrange the groups if you guys are not gonna keep the order anyway? Wasted my time arranging them around. Not to mention table properties order are not the same from the existing view when adding new view. This means if you'd arranged your properties order at any point in time, you have to do this again for EVERY SINGLE VIEW you create in the future. Dumb af.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66020b644a04c27314726149",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Tom",
+        "url": "https://www.trustpilot.com/users/613bb336204f880012ed9e3c/"
+      },
+      "datePublished": "2024-03-26T01:40:21.000Z",
+      "headline": "Difficulty loggin in",
+      "reviewBody": "Difficulty loggin in. The logging mechanism crashes. Need to specially try from incognito. Doesn't work for my friends either. Extremely bad. Very surprise seeign that popular product with that critical bugs. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66071378c750911b6a2a05e8",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Iman",
+        "url": "https://www.trustpilot.com/users/6544583dfad17400128819d2/"
+      },
+      "datePublished": "2024-03-29T21:16:09.000Z",
+      "headline": "I too find the app a bit fiddly but…",
+      "reviewBody": "I too find the website a bit fiddly but can't fault the customer service. I accidentally permenantly deleted a file, got in touch with customer service through the AI chat function that connected me to real people whom replied almost straight away and were super kind, friendly and found the page with no fuss. Special thanks to Emma. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/660b1769d91dfa03a4693e51",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "MK",
+        "url": "https://www.trustpilot.com/users/5ed0a815e79a61205f607a89/"
+      },
+      "datePublished": "2024-04-01T22:22:02.000Z",
+      "headline": "Unauthorized credit card charge",
+      "reviewBody": "Somebody added me into some kind of threat or workspace. I am not aware of this. No email notifications nothing. All of a sudden I see a charge on my credit card for a service I never signed up for. I contacted customer service asking to cancel my subscription and refund my money. So far they are footballing me. This is the first time I was charged for a service I never gave my consent. My experience with Notion.so has been unpleasant so far.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/65d87ef4c75f0991163d05d5",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Tom Pressdee",
+        "url": "https://www.trustpilot.com/users/65d87eed0e9a2f0012ffcbed/"
+      },
+      "datePublished": "2024-02-23T13:18:13.000Z",
+      "headline": "I am so angry with Notion",
+      "reviewBody": "I am so angry with Notion - all the hallmarks of a scam outfit.Difficult to cancel (you can't cancel directly with them, you have to do a merry dance through their convoluted menus.Repeated billing attempts even after they stated 'Last Attempt - Update Billing' numerous times (I moved money out of the account to cancel after having no joy online, or DIRECTLY WITH THEIR SUPPORTWasted sooo much time on this only to be further out of pocket.DISGUSTING BEHAVIOUR - AVOID LIKE THE PLAGUE.Doesn't surprise me at all that they have so many 1* reviews, don't believe the positive ones for a moment. Looks like someone has been buying fake reviews.AVOID AVOID AVOIDAlso, worryingly - I just noticed after finally being able to cancel (a FREE PLAN mind) Monzo informs me that they have conducted an 'Active Card Check' ??I had nothing owed so this is highly suspicious.If these guys have your details, I'd remove them ASAP.---Professional companies usually respond... Why am I not surprised?",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/658e9a702c955d605a8a718e",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ladnac Ladnac",
+        "url": "https://www.trustpilot.com/users/5f1b19f7fd90757571825722/"
+      },
+      "datePublished": "2023-12-29T12:07:45.000Z",
+      "headline": "I like the tool but customer service is non existent",
+      "reviewBody": "I like the tool, but it’s search function could be better. I also think that it should have more protection in business subscription. Customer service on the other hand is another matter. They don’t have any I would say, and that is a huge problem. They either not answer at all or answer with one sentence, that just brings up more questions and then ghost you.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "2"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/668e762a4f99c30ed4ec866a",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Wiktor Łażewski",
+        "url": "https://www.trustpilot.com/users/656e1b84ff4b9d00121de56a/"
+      },
+      "datePublished": "2024-07-10T13:53:14.000Z",
+      "headline": "I couldn't cancel my subscription and they wanted to charge me for the whole year",
+      "reviewBody": "My subscription period was coming to an end, I forgot to cancel it, and then wanted to do it in the settings, but it only allowed me to cancel my plan for the next year, not the current, I thought it was some kind of bug and did not have time to look into it further.I tried doing it multiple times, but it always worked only for the next billing period, and not for the current. Suddenly after some time my account was blocked and could be use only in the view mode. I email support, but it was not helpful at all.I see it as a misleading practice, they do not inform you enough about renewing your subscription, but when it happens, you cannot cancel it, and then they just block your account and keep charging you money.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6572a2380b6a03812a37a0a7",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "pallav learn",
+        "url": "https://www.trustpilot.com/users/626a80108385d5001287beae/"
+      },
+      "datePublished": "2023-12-08T06:57:29.000Z",
+      "headline": "Notion WAS great but no longer..",
+      "reviewBody": "Notion WAS great but no longer... I have been using Notion for 4 years. And it was the greatest discovery I had ever made. It was 10X better than Confluence, Evernote or similar tools. But now, Notion is just one of them - a bad tool. Notion's search functionality doesn't work, Notion AI is gimmick and the new Notion Q&A functionality cannot even answer basic questions.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "3"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/62e9acb04c35e69ec5219fff",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Richard B",
+        "url": "https://www.trustpilot.com/users/62e9abac21fd5e001359252e/"
+      },
+      "datePublished": "2022-08-03T01:01:04.000Z",
+      "headline": "Terrible customer service",
+      "reviewBody": "The software is nice and useful as you can read in most reviews, but I wish I would have seen the reviews about customer service and payments before I went into business with Notion.We have paid 10 times what we should have paid and Notion is not willing to offer us a refund. They only want to add the credit as balance, which is unacceptable to us.Be very careful trusting this company with your credit card details.Terrible experience.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66a396c6d6c5d1b507fc0b18",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ted Carver",
+        "url": "https://www.trustpilot.com/users/66a3961c228d947ecf93d987/"
+      },
+      "datePublished": "2024-07-26T14:29:58.000Z",
+      "headline": "Enjoy using notion a lot for my daily…",
+      "reviewBody": "Enjoy using notion a lot for my daily work interface. Helps me set up my employees and gets them ready + assigned to tasks with no issue. It is limited on what you can do with the free plan, we upgraded to take care of that. I will continue to use the platform and update my review accordingly.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "3"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/650b6addd220a77454a88f2b",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jan",
+        "url": "https://www.trustpilot.com/users/650b6ad03c330f0012e760e4/"
+      },
+      "datePublished": "2023-09-20T23:57:49.000Z",
+      "headline": "no support and broken product",
+      "reviewBody": "the product had a really big technical issue. after month of not being help and partly ghosted, customer support stated they will not fix the issue and also not refund. Don't build import stuff with notion. It's a dangerous service",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/65a98fa0472855924fdab310",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Erik S",
+        "url": "https://www.trustpilot.com/users/6202b0c63cb95b00126956aa/"
+      },
+      "datePublished": "2024-01-18T22:52:48.000Z",
+      "headline": "Nothing bad to say",
+      "reviewBody": "I've tried multiple task tracking softwares and even the free version of notion is amazing compared to some other where I paid for the same features yet they either worked painfully slow or had limits depending on price plan. I have no reason to upgrade at the moment since free has more than enough features but I figured I could at least give them a good review (maybe that counts for something) I am very happy with notion so far.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/643d414f0d74ddd6afa37c2f",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Pereira",
+        "url": "https://www.trustpilot.com/users/5e1637e9ddcefa2eb3537e6c/"
+      },
+      "datePublished": "2023-04-17T14:53:35.000Z",
+      "headline": "Notion support is no good at all",
+      "reviewBody": "Notion support is disgraceful. I accidentally deleted some files inside my Notion and the support initially was great, 3 different people tried to help and the third person mentioned It's has been backup. When login into my account nothing is there, still missing files.Since then, I replied to the support team and mentioned the files weren't retrieved, as of now, not been a single response (it's already 2 weeks ago), plus I'm paying for the Plus plan which offers \"Priority support\"... well if 2 weeks without response is \"Priority plan\" not sure about the basic plan how long can be taken for a single response.The entire team disappear, no emails, no messages, nothing!! Not sure there is someone literally looking at the tickets and trying to assist customers.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66bf80fcf7dcaca1a5240bd2",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Nitin Kumar",
+        "url": "https://www.trustpilot.com/users/64b83cd7301f6e0012122664/"
+      },
+      "datePublished": "2024-08-16T18:40:28.000Z",
+      "headline": "They make it impossible to unsubscribe…",
+      "reviewBody": "They make it impossible to unsubscribe from their marketing emails. Have been trying for more than 3 weeks to get unsubscribe one of our ex-employees. Unsubscribe links do not work, customer support is helpless and useless. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6786f4f8a17ac55b96843762",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Espen Liland",
+        "url": "https://www.trustpilot.com/users/65ca5f9f5ca2390012016200/"
+      },
+      "datePublished": "2025-01-15T01:36:24.000Z",
+      "headline": "Warning",
+      "reviewBody": "Warning! Exercise extreme caution before considering this service. Based on multiple user experiences, the company has demonstrated a concerning pattern of continuing to process unauthorized withdrawals from customer accounts even after explicit cancellation requests have been submitted. Adding to these serious concerns, their customer support system appears to be completely unresponsive, making it virtually impossible to resolve any issues or disputes that arise.In a recent and particularly troubling incident, they processed an unauthorized withdrawal of $770 from my account without any prior notification or consent. Given these predatory practices and the complete lack of accountability, it is clear that this operation does not meet the basic standards of a legitimate business entity. Potential customers should be aware of these significant risks to protect their financial security.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63d1f3c79b64b1bdaf433c70",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kastyn Glen Jimenez",
+        "url": "https://www.trustpilot.com/users/63cfafdf1a796b0013918b78/"
+      },
+      "datePublished": "2023-01-26T05:30:15.000Z",
+      "headline": "Versatile, user-friendly, and lots of interesting features",
+      "reviewBody": "I've been using Notion for years for a lot of things. Be it keeping notes, managing tasks at work, keeping track of projects, and even as my own portfolio. I love that I continue to keep finding ways for Notion to help keep me organized and make my life easier.The new update is also insane. The Notion AI has been very useful for my work and personal content creation process. It still needs some improvement but at its Alpha stage, I think it's pretty darn awesome already.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6701f35aa37257908661db6d",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Steve Allen",
+        "url": "https://www.trustpilot.com/users/6701f23db075b35c0d3e3993/"
+      },
+      "datePublished": "2024-10-06T04:18:03.000Z",
+      "headline": "Lots of competition...",
+      "reviewBody": "Hard to see why this is better than alternatives for notes and connections between notes. Would rather use something cleaner and more straightforward like Apple Notes / Google Docs / Obsidian at most for all the interconnected notes. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "3"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66336f5e9a84252975f82784",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ethan Horsfall",
+        "url": "https://www.trustpilot.com/users/5e667fc14c154fe0c0291dc9/"
+      },
+      "datePublished": "2024-05-02T12:47:58.000Z",
+      "headline": "Useful in the first year of the startup, then easy cancellation w",
+      "reviewBody": "We used notion for a while when we started and was useful, and stopped using them about a year ago after moving all over to google workspace.We forgot to cancel the billing but when we noticed the charge they were quick to help cancel and refund, which is not normally the case (thank you Jim from the billing team)",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66c41a84875d42bccde49fe4",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Marianna Kovalska",
+        "url": "https://www.trustpilot.com/users/66c41a7d40e8cd85ce41ea9f/"
+      },
+      "datePublished": "2024-08-20T06:24:36.000Z",
+      "headline": "if you need to use it as task manager i…",
+      "reviewBody": " if you need to use it as task manager i dont recommend it. i created all my docs and created teamspace and then it said i need to upgrade to use further. i didnt use it a lot but compare to trello for task management it sucks. ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/645a17bfd219dec8d1675d76",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Maritt Jensen",
+        "url": "https://www.trustpilot.com/users/644ceb13192d6f001379edfa/"
+      },
+      "datePublished": "2023-05-09T11:51:59.000Z",
+      "headline": "I upgraded and wanted to switch access…",
+      "reviewBody": "I upgraded and wanted to switch access to my corporate email. Thinking I was switching access all of a sudden I was removed. The support team is not offering a solution and is saying that my former employee is now the one who has access, despite her being removed from the workspace and not being the creator. Notion is a fun space, but don't store important information here as no recovery seems to be available. So far it has been 3 days with no access to my content.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "2"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/64c777f6c3d802304bb9f4ac",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Anna",
+        "url": "https://www.trustpilot.com/users/54ee11da0000ff0001ad87c7/"
+      },
+      "datePublished": "2023-07-31T10:59:34.000Z",
+      "headline": "Scam!! Beware this is fraud!! Do not subscribe to product!",
+      "reviewBody": "Scam!!! Do not purchase any plans you won't be able to cancel. I have been liaising with their team now for a whole week to tell them I canceled my plan more than a month ago, I submitted a ticket with their support, I have contacted their accounts, and still every other day I get an email from \"Noah\" to say the direct Debit has failed?? When I have canceled and have been trying to tell them I canceled my product already. I am now in a position where I need to liaise with my bank to report this product as fraud or change bank accounts because they wont cancel my direct debit despite me having canceled my subscription according to their process.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63ab9a964d0773066a26c5fe",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "SMB SEO",
+        "url": "https://www.trustpilot.com/users/5fe220d6a1b00f001a6d3e1c/"
+      },
+      "datePublished": "2022-12-28T03:23:34.000Z",
+      "headline": "Losing focus, but very useful 'daily driver'.",
+      "reviewBody": "Losing focus, but very useful 'daily driver'.There's a reason it's grown so fast. Been using them since beta, and it's replaced OneNote for most of my notetaking.Has started to stray from it's core strengths some. Trying to be everything to everyone never works out, but it's still good for it's core functionality, especially given how cheap it is.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "4"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/64682db2dd16d89aa94e8b73",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Adrian b",
+        "url": "https://www.trustpilot.com/users/584194b30000ff000a5d5f64/"
+      },
+      "datePublished": "2023-05-20T04:17:23.000Z",
+      "headline": "DO NOT UPGRADE",
+      "reviewBody": "You'll not be able to downgrade and you'll get charged. I explored notion 3 months ago, they gave me some credits to activate my plus plan which I did and then I wanted to cancel because I wasn't using Notion at all.There is no plan downgrade button, I email them, they said I need to install their app to be able to downgrade. I installed the app, there's no plan downgrade option neither.3 months after, I just got charged now ,...Straight robbery ....",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/62bd710b853b02c06c9305ad",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Az",
+        "url": "https://www.trustpilot.com/users/6206532d08903800132ca0ad/"
+      },
+      "datePublished": "2022-06-30T11:46:51.000Z",
+      "headline": "Shocking customer service..",
+      "reviewBody": "It has been a month that they are \"getting back to me\".Contacted them about a billing issue as we are paying for a feature we are not using and has been cancelled and 5 cs people later we are still waiting. Reached out again three days ago, sent my previous conversations and the chat got seen and closed! No reply. Shocking customer service. The issue \"has been with the finance team\" for over a month and silence..",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66459f7f462ae2fc8cf333af",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Sergei Mazur",
+        "url": "https://www.trustpilot.com/users/66459c472e338dc7cc7bb856/"
+      },
+      "datePublished": "2024-05-16T07:54:07.000Z",
+      "headline": "Be careful with Notion and its…",
+      "reviewBody": "Be careful with Notion and its cancellation policy.- if you bought a useless AI module and after some time you want to cancel it, you will be refused and the money will not be returned and will not be credited for another product;- if you cancel a certain number of users in an annual subscription, you receive credits for the next year. Any requests for a refund will not work;- the support service is misleading, first confirms the possibility of changing the issued invoice, and after a week of deliberation says that it is impossible to change the invoice. If you have your own business, then you understand perfectly well that any invoice can be changed, refunded, and so on;- if you want to try Notion, never choose an annual plan, only a monthly one, otherwise, you will not be able to change anything, and you will be charged the maximum amount of money;",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/637a5795252cba2c02de6313",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Julius",
+        "url": "https://www.trustpilot.com/users/637a56e969c66a0012fb7e7e/"
+      },
+      "datePublished": "2022-11-20T18:36:37.000Z",
+      "headline": "Really Buggy",
+      "reviewBody": "Buggy.Notion gets so much good press.I am literally unable to use it on iPhone because this tutorial pop up comes up that doesn't close even when you press Finish.So far I am able to use it on desktop browser. I clicked the download button for the mac app. Nothing happens.Maybe this is some kind of fluke, but it's unexpected having this really famous app not just slightly buggy but literally unable to even use on two platforms. I hope they take note and look into this. Thank you",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66903d934b35be1bc482a9c3",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Yavuz yardim",
+        "url": "https://www.trustpilot.com/users/62fc8b8ee7527700131f9694/"
+      },
+      "datePublished": "2024-07-11T22:16:19.000Z",
+      "headline": "Don't subscribe to this",
+      "reviewBody": "Don't subscribe to this. It is really useless, and you can't unsubscribe. If you have a problem, don't try to solve it. There is no solution. The strategy is to drag out the issue until you're fed up. After 40 emails, I could not solve my simple problem. They automatically upgraded my account without asking me. When I wanted to fix their mistake, they asked me to pay for the days that I did not use the service. Unfortunately, they took the money and did not refund it. After 40 emails, I gave up and canceled my subscription.\"",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/615fdf33d12ab8ef5160d42c",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Everyday User",
+        "url": "https://www.trustpilot.com/users/615fdf27d992fc001227771f/"
+      },
+      "datePublished": "2021-10-08T06:03:31.000Z",
+      "headline": "Horrible customer experience, credit card info taken",
+      "reviewBody": "Horrible customer experience. No email replies, credit balance altered without any explanation and very shady business practices.As a customer driven platform, this is clearly the opposite. Once they take your money they care VERY little in supporting your services.Due to their \"technical issue\" they have removed my account credit and charged my credit card without any consent. The BIGGEST red flag to this platform is there is NO OPTION TO REMOVE CREDIT CARD INFO forever. THere is 0 choice to remove your financial details, and if you forget, i guess you'll fund them indefinitely. After that, good luck with any responses for them for this cleary very shady practice.Do NOT enter your credit card details until they offer other options or AT LEAST the option to opt out of future payments.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/65c4ff2137c0b3dcad2e98f9",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "David Rodríguez",
+        "url": "https://www.trustpilot.com/users/65c4e5ef11162000126e627b/"
+      },
+      "datePublished": "2024-02-08T18:19:45.000Z",
+      "headline": "I'm loving it",
+      "reviewBody": "I've been not so open to use Notion. I know this solution from long time ago, and has been recently that I starting to use and loving it.I never needed help from their support, so I still don't know how they handle such kind of situations, but about the product I need to say that is amazing to organize personal and professional matters, for solo and teams, the way you can use databases (tables) with information is so powerful.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6613fd13ac9eee3f3a9b4418",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Josh Newport",
+        "url": "https://www.trustpilot.com/users/6613d83992f783001208cdd9/"
+      },
+      "datePublished": "2024-04-08T16:20:04.000Z",
+      "headline": "Decent app",
+      "reviewBody": "Decent app, with great options for sharing. Unfortunately it doesn't really work well for my purposes. Ended up going with SuperOkay, a client portal that leans more towards agency work.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "3"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/671b518bf5f179e3db82de8b",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "P. Schmid",
+        "url": "https://www.trustpilot.com/users/671b5183bb435987ac549eeb/"
+      },
+      "datePublished": "2024-10-25T10:06:35.000Z",
+      "headline": "Deserves 10 Stars",
+      "reviewBody": "For me, Notion is the most versatile Company Management Tool there is. It needs some time getting used to, to make full use of its potential. But then, it is just a joy to work with every day. They even have Notion Calendar, which is great, and Notion Mail will come soon. I am sure this will bring my productivity to a whole new level. Tasks, Meetings, Mail all in one platform. A dream.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/65653c6ddced767a74cad396",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Nuri",
+        "url": "https://www.trustpilot.com/users/6514119d4206c40011b486ac/"
+      },
+      "datePublished": "2023-11-28T03:03:41.000Z",
+      "headline": "Notion has truly transformed and…",
+      "reviewBody": "Notion has truly transformed and organized my life. While it took some time initially to explore all its features, mastering them turned it into the ultimate tool. My organizational skills and focus on tasks have reached a new level. A heartfelt thank you to the creators for this beautiful product!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/64650bfbc1a74d5c21f8384d",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Abinash Mohanty",
+        "url": "https://www.trustpilot.com/users/5d108ab743cae9c505cecf8d/"
+      },
+      "datePublished": "2023-05-17T19:16:43.000Z",
+      "headline": "Notion was one of those tools I could…",
+      "reviewBody": "Notion was one of those tools I could use all day, whether for a document or planning a project. It's so easy to use. I've been using this for over a year with its paid plan and I didn't regret I opted for it. Most designers love Notion compared to all completed project management tools including myself.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "4"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/66a5153110c0c751cce1ed06",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Rui Correia",
+        "url": "https://www.trustpilot.com/users/5f10b56231302a145dc5128d/"
+      },
+      "datePublished": "2024-07-27T17:41:37.000Z",
+      "headline": "Disappointed",
+      "reviewBody": "Disappointed! Extremely Disappointed!I changed companies recently and I noticed that my notion was associated to my previous company email by mistake and I cannot change to the new one. I asked for support, I got a reply with the required information and I sent the information I could - 10 DAYS have passed and not a single word - nothing - not that we are working on it or the information is not valid please send something valid...but no reply at all...and I mentioned on the first email 13 days ago that it was urgent and still nothing. Stay away from them...I am being made hostage with my own information that I wrote in their app and I am desparate need and I don't any reply. Extremely disappointed service and I was a paid user...so it doesn't matter paid or free you will get treated like the bottom of the barrel and with no reply...at all! STAY AWAY.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6490c47fa8e70216e87bb05d",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Aksel Normann",
+        "url": "https://www.trustpilot.com/users/5f3716e422ab587dbf01263d/"
+      },
+      "datePublished": "2023-06-19T23:11:27.000Z",
+      "headline": "Horrible customer service screams of unproffesionalism",
+      "reviewBody": "I actually love the concept of Notion, but their customer service is off-the-charts bad. This does not seem to be a serious company based on my experiences, so beware if you are pushing this on others. They are charging for things I have canceled, they are ping-ponging you about everywhere when you try to contact them, they don't honor their refund policy, they used false evidence/evidence from another account than mine when arguing their case, and at last, they just ghosted me. Unresolved, complete and utter silence. Thankfully I have already fallen in love with Coda.io, which is the same type of product, only much better and in a format that can actually be used by real organizations. I just wanted to see if Notion was anything like that, but it is not.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/632214e27f7a8621ee5bb830",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "UserOOOOOl",
+        "url": "https://www.trustpilot.com/users/5dbb5e3c4e974742ab548ad6/"
+      },
+      "datePublished": "2022-09-14T19:52:34.000Z",
+      "headline": "Customer service dept dragging the company down",
+      "reviewBody": "Actually came here to write a positive review, love the app and use it daily. Reading reviews here seems to indicate Ivan Zhao (CEO) doesn't value a customer's positive support experience or investing in that part of the business, which is disconcerting. Really great for personal use but would steer clear for business use until he starts taking Customer Support SOPs seriously. Kind of a red flag over all.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "2"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/62eaa7c38000af4a8853a5c1",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Mattia Franco",
+        "url": "https://www.trustpilot.com/users/5dc04b7a274af4fd7bc4a4eb/"
+      },
+      "datePublished": "2022-08-03T18:52:19.000Z",
+      "headline": "Terrible customer service.. lost so much time and patience!",
+      "reviewBody": "One of the worst customer service ever seen.. i've been bounced around 10 different people for the past months.. nobody giving a solution on a bug that doesn't allow my subscription to be changed (upgraded by the way... which is absurd.. they don't even let us pay more for it!!)The software is nice and useful as you can read in most reviews, but I wish I would have seen the reviews about customer service before I got my business and team onto Notion.Terrible. Terrible. What a headache! What a regret!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63ff621a491a59aa5a84a217",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Margarida P",
+        "url": "https://www.trustpilot.com/users/63db7707c08e0d00129a3d9e/"
+      },
+      "datePublished": "2023-03-01T16:32:58.000Z",
+      "headline": "Literally the perfect tool",
+      "reviewBody": "I can't remember how I survived before Notion. Forever grateful to this wonderful tool for helping keep all my thoughts, budgets, ideas, and work material in one place. Their customer support team is great too!! Can't wait to see the new features they build in the future :)",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63a2e5802338b6d417a2acfb",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Элиза Лидановская",
+        "url": "https://www.trustpilot.com/users/63a2e532eb2f09001258014c/"
+      },
+      "datePublished": "2022-12-21T12:52:48.000Z",
+      "headline": "Notion takes customisability to the…",
+      "reviewBody": "Notion takes customisability to the next level. I have only tried using it on the web though, but it took minutes to set up, and is super convenient for planning. I use the calendar view option for planning social media posts but it’s convenient to be able to switch to the table view or agile board view.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/648c2d2975b1df08cecaffb1",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Walter Adams",
+        "url": "https://www.trustpilot.com/users/6386695e4b277a0012eb1567/"
+      },
+      "datePublished": "2023-06-16T11:36:41.000Z",
+      "headline": "Notion is an excellent tool for both business & personal use",
+      "reviewBody": "Notion is an excellent tool for both business as well as personal use. We all know documentation is lacking in several companies as people don't take the time or the tool used has a high threshold. Notion is very low threshold yet very powerful when you learn t use it more in depth. Lot's of external plugins exist to add data from other services. In my experience, on a paid plan, customer support is very decent. I must agree with some people here that the invoicing process is not as transparent and it's not always exactly clear why and when  pro-rata pricing is being applied to new members.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6386900ab84cc27618fb3d0a",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Nicolás Mastakas",
+        "url": "https://www.trustpilot.com/users/61f56da6cd80d90012f90eab/"
+      },
+      "datePublished": "2022-11-30T01:04:43.000Z",
+      "headline": "I can't believe that Notion has such a…",
+      "reviewBody": "I can't believe that Notion has such a bad UX that you can't find the option to unsubscribe.So it must be done intentionally.I work in IT and I'm a software developer so I'm not even an average user.When I contacted them by email, they replied in a bad way.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/65f841ca898c3a53e7baa3e1",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Manveer Jagannath",
+        "url": "https://www.trustpilot.com/users/63c536950965aa0012e9cca0/"
+      },
+      "datePublished": "2024-03-18T15:29:47.000Z",
+      "headline": "Notion for personal use",
+      "reviewBody": "An EXCEPTIONAL notetaking app.Th creators have strode to make the app as user friendly as they possibly couldFrom practicing and recording information for exams to using the app for work, this has become my most important application.However, based on others reviews, it seems that there are issues on the business side (I can't comment on this; this review is purely based on their free personal plan) ",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/64ec91c86f00f7a0666c5dc3",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "MaHmood AL-Abri",
+        "url": "https://www.trustpilot.com/users/649a3eafafa5a500120426a2/"
+      },
+      "datePublished": "2023-08-28T14:23:36.000Z",
+      "headline": "One of the finest tools available",
+      "reviewBody": "One of the finest tools available! It's definitely worth giving a shot. It's incredibly versatile for various tasks involving databases, such as project management, money management, goal tracking, habit tracking, staff tracking, CRM, and more. I've been using this tool since August 2020, and I consistently recommend it to both my friends and family.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/601bdf91679d970358f7d778",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Aamir",
+        "url": "https://www.trustpilot.com/users/601bdea20de8a4001915404d/"
+      },
+      "datePublished": "2021-02-04T11:50:41.000Z",
+      "headline": "A Modern Invention",
+      "reviewBody": "Docs have always been there but dynamic, modular and customizable is what Notion brings to the table.We're using it for pretty much everything: wikis, todos, and jotting down the ideas.Notion, please don't stop what you're doing.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/65c60b96f1ddd2eb96a1179d",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Nate M",
+        "url": "https://www.trustpilot.com/users/561ac3a00000ff0001e23d14/"
+      },
+      "datePublished": "2024-02-09T13:25:11.000Z",
+      "headline": "I've tried every major relational…",
+      "reviewBody": "I've tried every major relational database app out there. Some (Like Trello & ClickUp) I've used for MANY years. There's something unique and nice about Notion. Although it hasn't replaced other tools I use, I do seem to come back to it over and over. It has 'something' go for it.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/65c5b72fcfd8f10ca113ffc8",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Polina",
+        "url": "https://www.trustpilot.com/users/65c5b727eb698e0012cd2627/"
+      },
+      "datePublished": "2024-02-09T07:25:04.000Z",
+      "headline": "I've been using Notion for a while now",
+      "reviewBody": "I've been using Notion for a while now. The flexibility to structure my information how I want is. Whether it's setting up project plans, creating to-do lists, or taking notes, Notion handles it all seamlessly. The collaborative features are a lifesaver for team projects, and the ability to switch between different views like tables, boards, and calendars keeps everything organized and accessible.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/61de6999e1196e51d761064f",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Max",
+        "url": "https://www.trustpilot.com/users/61736690d57e2e0012e53208/"
+      },
+      "datePublished": "2022-01-12T05:39:37.000Z",
+      "headline": "The BEST Note-taking app.",
+      "reviewBody": "The BEST Note-taking app.I have been using notion for a bit now, and have found no better app than it. It is simply the best app, with so many features. I love their database feature, and how you can nest pages under pages. Of all the previous apps I have used, Notion's UI and UX have blown me away, and their organisation inside the app with pages is simply amazing. A magnificent app, Notion!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/5ff3c965755dc1032c0bfcbc",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Berkan",
+        "url": "https://www.trustpilot.com/users/5a57da4d0000ff000affcf98/"
+      },
+      "datePublished": "2021-01-05T02:05:25.000Z",
+      "headline": "Definitely the best!",
+      "reviewBody": "The best note-taking app out there with the best developer and customer service team. They are always helpful and so sweet to chat with! You completely feel like that you are part of their project, as the people behind Notion always talk so personally to you as you were their friends!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63e449f99b64b1bdaf516560",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Saka Saddiq",
+        "url": "https://www.trustpilot.com/users/63e4497d01e147001270d4a9/"
+      },
+      "datePublished": "2023-02-09T03:18:49.000Z",
+      "headline": "The customer service is truly shocking",
+      "reviewBody": "The customer service is truly shocking. All you can do is send them an email and hope they respond in a timely fashion. A link of mine was not working and all they did was send me a link to the help center even though that doesn't address or fix my issue.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "2"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63dc3bdf9b64b1bdaf4b5105",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "MD SHORIF",
+        "url": "https://www.trustpilot.com/users/62fceb9aee8f770012b165f0/"
+      },
+      "datePublished": "2023-02-03T00:40:32.000Z",
+      "headline": "Can't think my life without Notion",
+      "reviewBody": "World knows about Notion! I have nothing to say something new as notion always has been piece of art . My only concern if this wonderful System every shout-down what will be happen to all of the notion lovers.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/63c82c682338b6d417be078f",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Alberto Rodriguez",
+        "url": "https://www.trustpilot.com/users/63c82a6790137b0011f0c680/"
+      },
+      "datePublished": "2023-01-18T19:29:12.000Z",
+      "headline": "Notion helps me organize my work",
+      "reviewBody": "I love that I can better organize my work and day with Notion. Its multiple customatization options allow me to create different tables for my calendar, to do list and notes. I wish I could learn more about their more advanced features",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "4"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/661573cd0fa1af14d48752fd",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Kent Matthew",
+        "url": "https://www.trustpilot.com/users/660ddd3e09e90d0012cfb258/"
+      },
+      "datePublished": "2024-04-09T18:58:54.000Z",
+      "headline": "Worst customer service out there",
+      "reviewBody": "Is this what happens when they let \"tech people\" run their customer service. These people have no clue how to talk to people and will deflect the problem away from them as quickly as possible. Looks like a dying fade and I can see why.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6438f0baeefab2fdc9937340",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Online Customer ",
+        "url": "https://www.trustpilot.com/users/5ee3b190f9633b7a767b90c4/"
+      },
+      "datePublished": "2023-04-14T08:20:42.000Z",
+      "headline": "Zero Customer Support",
+      "reviewBody": "I’ve been using Notion for 2 years. Never had issues until now, although I have to say some clients have found it a little temperamental.My Notion has completely frozen, cannot access it at all. For the past 3 weeks I’ve been trying to get a response. They have now raised a support ticket & have escalated it (although just feel like they are passing the book as no real response yet).Just received an email this morning stating that they haven’t heard from me for 2 days so if I don’t respond they will close the case. The last correspondence from them clearly states my case has been escalated & THEY will be in touch, they even apologise for the wait! I’m not hopeful at all. Something isn’t right. It appears they are too busy launching new features.I can’t even access my account to cancel my subscription which is due to be paid in July!I’m fortunate I don’t have anything of great importance on there, like some other users.Basically Notion is a great tool when it works… when it doesn’t you are left high & dry with zero customer support leaving you no other option but to cancel.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6418aeb598a04ed6b4320ac0",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jeremy Peter Williams",
+        "url": "https://www.trustpilot.com/users/6418aeaad946dc00133c2f23/"
+      },
+      "datePublished": "2023-03-20T21:06:29.000Z",
+      "headline": "Zero response to 3 customer service mails",
+      "reviewBody": "I've been testing Notion on behalf of my company and have sung its praises but now after 3 mails and a week of waiting for a response, no answer. So far, not impressed at all I'm sorry to say. I'd love to be proven wrong!",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/6438b8e41ac14922535a9042",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Cheryl Marlene",
+        "url": "https://www.trustpilot.com/users/5f39e60c0367152998bbd1e0/"
+      },
+      "datePublished": "2023-04-14T04:22:28.000Z",
+      "headline": "Horrible customer support",
+      "reviewBody": "Notion may have several unique features, but customer support is absolutely horrible. I have been waiting for over 103 days for response to why there was failure in importing a small CSV file into an existing Notion database. This should be a quick response from a company that prides itself on its database solutions. CSV files and databases are so old-school that this isn't even a beginner issue. Yet in the import there is no field mapping and the Notion documentation on merge/import amounts to one sentence. And more importantly with all the \"apology\" and \"understanding\" from the uncountable number of support personnel, my support ticket has been dropped over and over and over again. Plus they are now refusing to connect me with a responsible person so I may file a complaint.So Notion: come for the fun stuff and when the going gets tough, do not count on any support.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/645c6e428f967b56dce018cd",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Mickey",
+        "url": "https://www.trustpilot.com/users/591e279d0000ff000a99f113/"
+      },
+      "datePublished": "2023-05-11T06:25:38.000Z",
+      "headline": "TERRIBLE PERFORMANCE",
+      "reviewBody": "The performance has become so bad it's almost unusable. Pages take a couple of seconds to load. Need to refresh. Sometimes crashes. NOT what you need from a word processor. Switching soon.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "1"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/60b0e771f9f4870a94afb677",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Dimitris Proton ",
+        "url": "https://www.trustpilot.com/users/602f7bd449aeca0019ad928b/"
+      },
+      "datePublished": "2021-05-28T12:52:01.000Z",
+      "headline": "Time and life saver",
+      "reviewBody": "Time and life saver ! What a great software. Notion is the best project managment and workspace tool ever for sure. Its combined almost everything. Easy to learn and easy to adopt by your team. The intergrated database is a great inovvation. Just magic.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "Review",
+      "@id": "https://www.trustpilot.com/#/schema/Review/notion.so/614c953b6223e22118b8c40f",
+      "itemReviewed": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/notion.so"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Thomas Costa",
+        "url": "https://www.trustpilot.com/users/6129066afebf850012048460/"
+      },
+      "datePublished": "2021-09-23T14:54:51.000Z",
+      "headline": "Great app for organization",
+      "reviewBody": "Great app for organization. For a free app this does everything that you'd want it to and more. They've also got some great tutorials and templates to maximize the usage of it. I haven't had a chance to use their premium version, but even if you're just using the free version it does basically everything that you'd want it to.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": "5"
+      },
+      "publisher": {
+        "@id": "https://www.trustpilot.com/#/schema/Organization/1"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}
